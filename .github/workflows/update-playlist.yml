@@ -12,6 +12,9 @@ on:
       - 'fetch_and_combine.py'
       - '.github/workflows/update-playlist.yml'
 
+permissions:
+  contents: write
+
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
@@ -35,23 +38,22 @@ jobs:
       - name: Fetch and combine playlists
         run: python fetch_and_combine.py
 
-      - name: Check for changes
-        id: check_changes
-        run: |
-          git diff --quiet master_playlist.m3u || echo "changed=true" >> $GITHUB_OUTPUT
-          git diff --quiet update_summary.txt || echo "changed=true" >> $GITHUB_OUTPUT
-
       - name: Commit and push changes
-        if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add master_playlist.m3u update_summary.txt
-          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
-          git commit -m "Auto-update playlist - $TIMESTAMP
+          
+          # Check if there are staged changes to commit
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+            git commit -m "Auto-update playlist - $TIMESTAMP
 
           - Fetched latest channels from all sources
           - Filtered working local channels
           - Removed duplicates
           - Combined into master_playlist.m3u"
-          git push
+            git push
+          fi
