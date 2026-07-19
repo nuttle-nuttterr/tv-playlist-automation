@@ -1,28 +1,16 @@
-Update: 2026-07-19 07:14:44 UTC
+Update: 2026-07-19 07:57:56 UTC
 Total sources: 5
 Successful: 5
 Failed: 0
-Total channels: 673
+Total channels: 666
 
 Category breakdown:
-  Tamil Local Channels: 580
-  Tamil Channels: 59
+  Tamil Local Channels: 581
+  Tamil Channels: 60
   Sports: 13
   English Movies: 12
-  English GEC: 4
-  English Lifestyle: 3
-  English Lifestyle & Travel: 1
-  Tamil - Spiritual & Devotional: 1
 
 Channel list:
-  [English GEC] Colors Infinity (main)
-  [English GEC] Comedy Central (main)
-  [English GEC] Disney International (main)
-  [English GEC] Disney International HD (main)
-  [English Lifestyle] Goodtimes (main)
-  [English Lifestyle] Travelxp (main)
-  [English Lifestyle] Travelxp (main)
-  [English Lifestyle & Travel] Travelxp (main)
   [English Movies] HBO (main)
   [English Movies] MNX (main)
   [English Movies] Movies Now (main)
@@ -48,7 +36,6 @@ Channel list:
   [Sports] Star Sports 2 Tamil (main)
   [Sports] Star Sports Select 1 (main)
   [Sports] Star Sports Select 2 (main)
-  [Tamil - Spiritual & Devotional] Madha TV (main)
   [Tamil Channels] Adithya TV (main)
   [Tamil Channels] chithiram tv (main)
   [Tamil Channels] Chutti TV (main)
@@ -58,6 +45,7 @@ Channel list:
   [Tamil Channels] Eet Live (main)
   [Tamil Channels] EET Live EET TV (main)
   [Tamil Channels] Isaiaruvi (main)
+  [Tamil Channels] Jaya Max (main)
   [Tamil Channels] Jaya Max (main)
   [Tamil Channels] Jaya Max (main)
   [Tamil Channels] Jaya TV (main)
@@ -406,6 +394,7 @@ Channel list:
   [Tamil Local Channels] Kumari TV (main)
   [Tamil Local Channels] Leo TV (main)
   [Tamil Local Channels] Life TV (main)
+  [Tamil Local Channels] Lime TV (main)
   [Tamil Local Channels] Lion TV (main)
   [Tamil Local Channels] Lourdes TV (main)
   [Tamil Local Channels] Love Joy TV (main)
