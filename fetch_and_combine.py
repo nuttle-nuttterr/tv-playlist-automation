@@ -24,21 +24,36 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/nuttle-nuttterr/Tv-by-Claude/main/master_playlist.m3u",
 ]
 
-# Categories to REMOVE entirely (case-insensitive)
+# Categories to REMOVE entirely (case-insensitive, exact match after normalization)
 REMOVE_CATEGORIES = {
+    # Tamil spiritual
     "tamil spiritual",
     "tamil spiritual & devotional",
+    "tamil - spiritual & devotional",
+    # Tamil movies
     "tamil movies",
     "tamil - movies",
+    # English infotainment
     "english infotainment",
     "english - infotainment",
+    # English news
     "english national news",
     "english - news",
-    "english business news",
-    "english kids",
-    "english - kids",
     "english international news",
     "english - international news",
+    # English business
+    "english business news",
+    # English kids
+    "english kids",
+    "english - kids",
+    # English GEC
+    "english gec",
+    "english - gec",
+    # English lifestyle
+    "english lifestyle",
+    "english - lifestyle",
+    "english lifestyle & travel",
+    "english - lifestyle & travel",
 }
 
 # Categories to map into "Tamil Local Channels" (case-insensitive)
@@ -62,8 +77,8 @@ TAMIL_CATEGORY_ALIASES = {
     "tamil - kids",
     "tamil music",
     "tamil - music",
-    "tamil iptv channels",
     "tamil iptv",
+    "tamil iptv channels",
 }
 
 # Headers for requests
@@ -98,7 +113,7 @@ def map_category(raw_category):
     if norm in TAMIL_CATEGORY_ALIASES:
         return "Tamil Channels"
 
-    # Keep other categories as-is (Sports, English Movies, English GEC, etc.)
+    # Keep other categories as-is (Sports, English Movies, etc.)
     return raw_category.strip()
 
 
@@ -226,9 +241,6 @@ def generate_m3u(channels):
         "Tamil Local Channels",
         "Sports",
         "English Movies",
-        "English GEC",
-        "English Lifestyle",
-        "English Lifestyle & Travel",
     ]
 
     # Sort categories: preferred order first, then alphabetically
