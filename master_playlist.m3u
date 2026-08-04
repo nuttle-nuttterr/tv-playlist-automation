@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Playlist Info",Generated: 2026-08-04 14:21:50 UTC | Channels: 691
+#EXTINF:-1 tvg-name="Playlist Info",Generated: 2026-08-04 19:40:29 UTC | Channels: 677
 https://example.com/placeholder
 
 # --- Tamil Channels ---
@@ -87,9 +87,6 @@ https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:-1 tvg-name="Polimer News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Tamil Channels",Polimer News
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PolimerNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143664_ld_h9_aa.png?lock=720x540" group-title="Tamil Channels",Polimer News (576p)
-https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
-
 #EXTINF:-1 tvg-name="polimer tv" tvg-logo="" group-title="Tamil Channels",polimer tv
 https://cdn-2.pishow.tv/live/1241/master.m3u8
 
@@ -165,6 +162,9 @@ https://cdn-3.pishow.tv/live/1612/master.m3u8
 #EXTINF:-1 tvg-name="vendhar tv" tvg-logo="" group-title="Tamil Channels",vendhar tv
 https://cdn-3.pishow.tv/live/1271/master.m3u8
 
+#EXTINF:-1 tvg-name="win news" tvg-logo="" group-title="Tamil Channels",win news
+https://cdn-4.pishow.tv/live/1531/master.m3u8
+
 #EXTINF:-1 tvg-name="Zee Tamil" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg" group-title="Tamil Channels",Zee Tamil
 http://103.159.180.34:5001/live/628.m3u8
 
@@ -178,7 +178,10 @@ http://181.233.125.54:80/live/play/Vm5salJ6TTBjemhOTkRObk1qZHZUbnBUTjFCUFNsVmxWM
 https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
 
 # --- Tamil Local Channels ---
-#EXTINF:-1 tvg-name="-4 Params Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732631200_params%20tv%20png%20lgog%20.png" group-title="Tamil Local Channels",-4 Params Tv
+#EXTINF:-1 tvg-name="-3 Ashoka Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782816106_Ashoka%20TV%20LOGO%20SWF.gif" group-title="Tamil Local Channels",-3 Ashoka Tv
+https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
+
+#EXTINF:-1 tvg-name="-4 Params Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732631200_params%20tv%20png%20lgog%20.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",-4 Params Tv
 https://stream.ashokadigital.net/ashokaslm/paramstv/index.m3u8
 
 #EXTINF:-1 tvg-name="-5 INFO TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1757781783_0%20.%20ASHOKA%20DIGITAL%20LOGO.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",-5 INFO TV
@@ -214,7 +217,7 @@ http://103.87.105.51:8080/acpisaioli/acpisaioli.m3u8
 #EXTINF:-1 tvg-name="123 PR TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1752245098_PR%20TV%20LOGO%20PNG.png" group-title="Tamil Local Channels",123 PR TV
 http://applelive.in/prtv/prtv.m3u8
 
-#EXTINF:-1 tvg-name="126 Shakthi Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777567856_SALRHI%20TV%20LOGO%20PNG%20copy.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",126 Shakthi Channel
+#EXTINF:-1 tvg-name="126 Shakthi Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777567856_SALRHI%20TV%20LOGO%20PNG%20copy.png" group-title="Tamil Local Channels",126 Shakthi Channel
 https://cloudstream4k.com/shakthihd/bsk/playlist.m3u8
 
 #EXTINF:-1 tvg-name="128 eagle tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746463528_WhatsApp_Image_2025-05-05_at_8.17.32_PM-removebg-preview.png" group-title="Tamil Local Channels",128 eagle tv
@@ -229,7 +232,7 @@ https://app.ashokadigital.net/app/2dc99348/index.m3u8
 #EXTINF:-1 tvg-name="135 thendral tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785492886_WhatsApp%20Image%202026-07-31%20at%201.50.50%20PM.jpeg" group-title="Tamil Local Channels",135 thendral tv
 https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8
 
-#EXTINF:-1 tvg-name="136 Ganesh Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1734974165_IMG-20241223-WA0162-removebg-preview.png" group-title="Tamil Local Channels",136 Ganesh Tv
+#EXTINF:-1 tvg-name="136 Ganesh Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1734974165_IMG-20241223-WA0162-removebg-preview.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",136 Ganesh Tv
 https://hls.thendraltv.in/ganeshtv_ade49abb/index.m3u8
 
 #EXTINF:-1 tvg-name="147 BSC OLD tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1771731192_bsc%20tv.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",147 BSC OLD tv
@@ -241,13 +244,13 @@ https://aadhavantamiltv-ashoka.tamilstream.in/aadhavantamiltv/aadhavantamiltv/pl
 #EXTINF:-1 tvg-name="151 Erode" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732431684_227461593_220794490025454_2506413802748050177_n-removebg-preview.png" group-title="Tamil Local Channels",151 Erode
 http://103.110.236.141:8080/hls/erodekrishnatv/index.m3u8
 
-#EXTINF:-1 tvg-name="16 Thendral Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784602360_ashoka-digital-560x315.gif" group-title="Tamil Local Channels",16 Thendral Tv
+#EXTINF:-1 tvg-name="16 Thendral tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784602360_ashoka-digital-560x315.gif" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",16 Thendral tv
 https://app.ashokadigital.net/app/320fe68e/index.m3u8
 
 #EXTINF:-1 tvg-name="168 EZHIL TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740735792_SAVE_20250228_143607.jpg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",168 EZHIL TV
 https://rtmp.notvstream.in/ezhiltv/ezhiltv/index.m3u8
 
-#EXTINF:-1 tvg-name="17 MALAR TV SURANDAI" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1766937001_94933e74-395c-4256-a988-c606e16b040b.png" group-title="Tamil Local Channels",17 MALAR TV SURANDAI
+#EXTINF:-1 tvg-name="17 MALAR TV SURANDAI" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1766937001_94933e74-395c-4256-a988-c606e16b040b.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",17 MALAR TV SURANDAI
 http://asokaapp-malartv.sscloud7.in/malartv/malartv/index.mpd
 
 #EXTINF:-1 tvg-name="177 Lotus Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1759064671_WhatsApp_Image_2025-09-28_at_5.56.32_PM-removebg-preview.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",177 Lotus Tv
@@ -325,7 +328,7 @@ https://app.ashokadigital.net/app/7fe2793b/index.m3u8
 #EXTINF:-1 tvg-name="46 RIGHT TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782974844_right%20tv%20low%20gif.gif" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",46 RIGHT TV
 https://app.ashokadigital.net/app/0fa2ea5d/index.m3u8
 
-#EXTINF:-1 tvg-name="5 7star Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784602466_7start.gif" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",5 7star Tv
+#EXTINF:-1 tvg-name="5 7star Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784602466_7start.gif" group-title="Tamil Local Channels",5 7star Tv
 http://premium.7starcloud.com:1935/live/7star/live.m3u8
 
 #EXTINF:-1 tvg-name="50 CITI CHANNEL" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1756799145_f22cf45b-82ba-480e-b49f-b6dd13221249-removebg-preview.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",50 CITI CHANNEL
@@ -337,13 +340,13 @@ https://livetv.ashokadigital.net/upload/vod/1755166998_Benaka_Gold_New_Ad_1mint_
 #EXTINF:-1 tvg-name="52 Voice Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754494620_Ver%202.0_04.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",52 Voice Tv
 https://stream.ashokadigital.net/voicetv/voicetvhd/index.m3u8
 
-#EXTINF:-1 tvg-name="600 Km News Bengaluru" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209217_316%20copy.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",600 Km News Bengaluru
+#EXTINF:-1 tvg-name="600 Km News Bengaluru" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209217_316%20copy.png" group-title="Tamil Local Channels",600 Km News Bengaluru
 https://desitashantv.livebox.co.in/kmnewshls/kmnews.m3u8
 
 #EXTINF:-1 tvg-name="61 Jeeva Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782563544_WhatsApp%20Image%202026-06-27%20at%205.52.02%20PM.jpeg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",61 Jeeva Tv
 https://cdn1.rojatv.cloud/kumaran/tv/index.m3u8
 
-#EXTINF:-1 tvg-name="648 Blessing Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750414088_IMG_20250620_153652.jpg" group-title="Tamil Local Channels",648 Blessing Tv
+#EXTINF:-1 tvg-name="648 Blessing Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750414088_IMG_20250620_153652.jpg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",648 Blessing Tv
 https://mumbai-edge.smartplaytv.in/BlessingTv/index.m3u8
 
 #EXTINF:-1 tvg-name="652 gs channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753570583_1747319853_0%20.%20ASHOKA%20DIGITAL%20LOGO%20(1).png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",652 gs channel
@@ -352,37 +355,43 @@ http://shivaganeshtelicom.in/gschannel/video.m3u8
 #EXTINF:-1 tvg-name="653 Gee TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753570629_1747319853_0%20.%20ASHOKA%20DIGITAL%20LOGO%20(1).png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",653 Gee TV
 https://mumbai-edge.smartplaytv.in/GeeTV/index.m3u8
 
-#EXTINF:-1 tvg-name="66 Namma Gobi Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1751788665_png%20logo.png" group-title="Tamil Local Channels",66 Namma Gobi Tv
+#EXTINF:-1 tvg-name="66 Namma gobi tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1751788665_png%20logo.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",66 Namma gobi tv
 https://cdn1.rojatv.cloud/nammagobi/tv/index.m3u8
 
 #EXTINF:-1 tvg-name="67 Ragam tv Ooty" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736940221_SAVE_20250115_162418.jpg" group-title="Tamil Local Channels",67 Ragam tv Ooty
 https://account26.livebox.co.in/RAGAMMTPhls/live.m3u8
 
-#EXTINF:-1 tvg-name="68 Shalini Tv Kanchipuram" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736392678_IMG-20250109-WA0048.jpg" group-title="Tamil Local Channels",68 Shalini Tv Kanchipuram
+#EXTINF:-1 tvg-name="68 Shalini tv kanchipuram" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736392678_IMG-20250109-WA0048.jpg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",68 Shalini tv kanchipuram
 https://app.ashokadigital.net/app/55c65ef4/index.m3u8
 
 #EXTINF:-1 tvg-name="68b001a0" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",68b001a0
 https://app.ashokadigital.net/app/68b001a0/index.m3u8
 
+#EXTINF:-1 tvg-name="69 Sss hd" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736392738_cf77d13b-c021-40e7-9596-ce3964e03fc9.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",69 Sss hd
+https://app.ashokadigital.net/app/74f6070c/index.m3u8
+
 #EXTINF:-1 tvg-name="7 Green" tvg-logo="" group-title="Tamil Local Channels",7 Green
 https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
 
-#EXTINF:-1 tvg-id="7Green4K" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739599670_IMG_20250215_113627_583.png" tvg-region="Chengalpattu" group-title="Tamil Local Channels",7 Green 4K
+#EXTINF:-1 tvg-id="7Green4K" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739599670_IMG_20250215_113627_583.png&w=1920&q=75" group-title="Tamil Local Channels",7 Green 4K
 https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
 
 #EXTINF:-1 tvg-name="7 Yeshua HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739979735_WhatsApp_Image_2025-02-19_at_6.21.54_PM-removebg-preview.png" group-title="Tamil Local Channels",7 Yeshua HD
 https://account8.livebox.co.in/Yeshuahls/live.m3u8
 
-#EXTINF:-1 tvg-name="70 Hansitha Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1767717103_H1.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",70 Hansitha Tv
+#EXTINF:-1 tvg-name="70 Hansitha Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1767717103_H1.png" group-title="Tamil Local Channels",70 Hansitha Tv
 https://air.rojatv.cloud/hanshitha/tv/index.m3u8
 
 #EXTINF:-1 tvg-name="73 Jrp Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739251156_JRP%20.png" group-title="Tamil Local Channels",73 Jrp Tv
 https://app.ashokadigital.net/app/16b78045/index.m3u8
 
+#EXTINF:-1 tvg-name="73 JRP TV HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739251156_JRP%20.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",73 JRP TV HD
+https://app.ashokadigital.net/app/16b78045/index.m3u8
+
 #EXTINF:-1 tvg-name="75 KM Music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777715423_1771730164_km%20music.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",75 KM Music
 https://stream.ashokadigital.net/kmmusic/kmmusic/index.m3u8
 
-#EXTINF:-1 tvg-name="77 Mtntv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784603031_ashoka-digital-320x180%20(2).gif" group-title="Tamil Local Channels",77 Mtntv
+#EXTINF:-1 tvg-name="77 mtntv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784603031_ashoka-digital-320x180%20(2).gif" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",77 mtntv
 https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
 
 #EXTINF:-1 tvg-name="78 Amen Village Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1752934778_amen%20tv%201.png" group-title="Tamil Local Channels",78 Amen Village Tv
@@ -391,11 +400,17 @@ https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
 #EXTINF:-1 tvg-name="79 vinayaga tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1768196945_WhatsApp%20Image%202026-01-12%20at%2010.15.02%20AM.jpeg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",79 vinayaga tv
 https://app.ashokadigital.net/app/9d60f10e/index.m3u8
 
-#EXTINF:-1 tvg-name="7Star Music" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1764994908_7SM%2520Still%25202.png&w=1080&q=75" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",7Star Music
+#EXTINF:-1 tvg-name="7Star Music" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1764994908_7SM%2520Still%25202.png&w=1080&q=75" group-title="Tamil Local Channels",7Star Music
 http://premium.7starcloud.com:1935/live/7starmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-name="7Star Television" tvg-logo="https://i.ibb.co/C3gpVrps/7-Star-Television.jpg" group-title="Tamil Local Channels",7Star Television
 https://annainew.livebox.co.in/7startvhls/livestream.m3u8
+
+#EXTINF:-1 tvg-id="7StarTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784602466_7start.gif" tvg-region="Salem" group-title="Tamil Local Channels",7Star TV
+http://premium.7starcloud.com:1935/live/7star/live.m3u8
+
+#EXTINF:-1 tvg-name="80 Devi Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1768196974_WhatsApp%20Image%202026-01-12%20at%2010.15.03%20AM.jpeg" group-title="Tamil Local Channels",80 Devi Tv
+https://app.ashokadigital.net/app/7086d917/index.m3u8
 
 #EXTINF:-1 tvg-name="81 ESAN TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1774590851_esyan%20tv.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",81 ESAN TV
 https://app.ashokadigital.net/app/c29cd7a3/index.m3u8
@@ -406,7 +421,7 @@ https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8
 #EXTINF:-1 tvg-name="84 hitech tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777425322_HI%20TECH%20TV%20NEW%2029.4.26.jpeg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",84 hitech tv
 https://app.ashokadigital.net/app/44ae008e/index.m3u8
 
-#EXTINF:-1 tvg-name="850 7gtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784825031_f61d5ee0-4bc1-4c79-8895-d903b5e6f6c5-Photoroom.png" group-title="Tamil Local Channels",850 7gtv
+#EXTINF:-1 tvg-name="850 7gtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784825031_f61d5ee0-4bc1-4c79-8895-d903b5e6f6c5-Photoroom.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",850 7gtv
 https://rtmp.streamwell.in/hls/7gtv.m3u8
 
 #EXTINF:-1 tvg-name="851 rv digital tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785667797_WhatsApp%20Image%202026-08-02%20at%2012.09.05%20PM.jpeg" group-title="Tamil Local Channels",851 rv digital tv
@@ -454,14 +469,14 @@ https://viimedia.wiseplayout.com:5556/viimedia/master.m3u8
 #EXTINF:-1 tvg-name="94 d bhakthi tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785171965_Dbhakthi.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",94 d bhakthi tv
 https://stream.d6-pro.com/Dbhakhi/live/video.m3u8
 
-#EXTINF:-1 tvg-id="A1MediaNews" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1778983617_WhatsApp%20Image%202026-05-17%20at%207.34.58%20AM.jpeg" tvg-region="Unknown" group-title="Tamil Local Channels",A1 Media News
+#EXTINF:-1 tvg-name="A1 Media News" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1778983617_WhatsApp%20Image%202026-05-17%20at%207.34.58%20AM.jpeg" group-title="Tamil Local Channels",A1 Media News
 http://sanplayout.xyz/live2/a1medianews/index.m3u8
 
 #EXTINF:-1 tvg-name="A1 TV Ariyalur" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775921579_A1%20TV%2020%20copy.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",A1 TV Ariyalur
 https://app.ashokadigital.net/app/0fca457c/index.m3u8
 
-#EXTINF:-1 tvg-name="Aadhavan Colours" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AadhavanColours.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Aadhavan Colours
-https://view.apserver.in/tmp_hls4/aadhavancolours/index.m3u8
+#EXTINF:-1 tvg-name="A3e0b02f" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",A3e0b02f
+https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
 
 #EXTINF:-1 tvg-name="Aadhavan Tamil TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1758903321_WhatsApp_Image_2025-09-26_at_11.19.20_AM-removebg-preview.png&w=1920&q=75" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Aadhavan Tamil TV
 http://aadhavantamiltv.phoenixcreations.online/aadhavantamiltv/aadhavantamiltv/index.m3u8
@@ -469,7 +484,7 @@ http://aadhavantamiltv.phoenixcreations.online/aadhavantamiltv/aadhavantamiltv/i
 #EXTINF:-1 tvg-name="Aadhavan Tamil Tv" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1758903321_WhatsApp_Image_2025-09-26_at_11.19.20_AM-removebg-preview.png&w=1920&q=75" group-title="Tamil Local Channels",Aadhavan Tamil Tv
 https://aadhavantamiltv.phoenixcreations.online/aadhavantamiltv/aadhavantamiltv/index.m3u8
 
-#EXTINF:-1 tvg-name="Aadhavan TV" tvg-logo="https://vmfm.github.io/tamilvmtv/image/aadhavan-tv2.jpg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Aadhavan TV
+#EXTINF:-1 tvg-name="Aadhavan Tv" tvg-logo="https://vmfm.github.io/tamilvmtv/image/aadhavan-tv2.jpg" group-title="Tamil Local Channels",Aadhavan Tv
 https://view.apserver.in/tmp_hls3/aadhavantv/index.m3u8
 
 #EXTINF:-1 tvg-name="Aaron TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AaronTV.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Aaron TV
@@ -508,7 +523,7 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 #EXTINF:-1 tvg-name="Adhisayam TV" tvg-logo="https://i.imgur.com/6b3nJcD.png" group-title="Tamil Local Channels",Adhisayam TV
 https://livetv.adhisayamtv.org/adhisayamtv/83a062a18a761b948a73ad2ba7747a8f.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Adhiyamaan Tv" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732121692_White%2520Logo%2520copy.png&w=1920&q=75" group-title="Tamil Local Channels",Adhiyamaan Tv
+#EXTINF:-1 tvg-name="Adhiyamaan TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732121692_White%2520Logo%2520copy.png&w=1920&q=75" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Adhiyamaan TV
 https://hd.singamcloud.in/adhiyamamtv/adhiyamamtv/index.m3u8
 
 #EXTINF:-1 tvg-name="Advika TV" tvg-logo="https://play-lh.googleusercontent.com/GpP7fx3D7WauJEGYJkj8lJGuRVE3m5IqTKDqK74HIRhk2M_Hg49TSwlcP_oUUPKEt8ij=w512-h960-rw" group-title="Tamil Local Channels",Advika TV
@@ -562,11 +577,8 @@ https://mumt07.tangotv.in/zHjX9OFlANANDAMTV/index.m3u8
 #EXTINF:-1 tvg-name="Anandam Utv" tvg-logo="https://yt3.googleusercontent.com/2xDkHaxdCWOHICws_UnBcFP6gRQoZ9YD-GtSw1KMxTGMblNYaWvlyYsFNkjzvJKKA9tU336n" group-title="Tamil Local Channels",Anandam Utv
 https://mumt07.tangotv.in/zHjX9OFlUTVANANDAM/index.m3u8
 
-#EXTINF:-1 tvg-name="Anandham TV" tvg-logo="https://vmfm.github.io/tamilvmtv/image/anandham.jpg" group-title="Tamil Local Channels",Anandham TV
+#EXTINF:-1 tvg-name="Anandham TV" tvg-logo="https://vmfm.github.io/tamilvmtv/image/anandham.jpg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Anandham TV
 https://server.sscloud7.in/live/anandhamtv/index.mpd
-
-#EXTINF:-1 tvg-name="Anbu Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761325584_anbu%20tv.png" group-title="Tamil Local Channels",Anbu Tv
-https://ipcloud.live/anbutv/anbutvhd/index.m3u8
 
 #EXTINF:-1 tvg-name="Anbu TV HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761325584_anbu%20tv.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Anbu TV HD
 https://ipcloud.live/anbutv/anbutvhd/index.m3u8
@@ -598,9 +610,6 @@ http://198.144.149.206:8080/NOTV/IWORLDHD/index.m3u8?token=GTR
 #EXTINF:-1 tvg-name="APS Gold" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",APS Gold
 https://apsgold-a1.tamilstream.in/apsgold/apsgold/index.m3u8
 
-#EXTINF:-1 tvg-name="Aps Tv Gold" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/APSTVGold.png" group-title="Tamil Local Channels",Aps Tv Gold
-https://apsgold-a1.tamilstream.in/apsgold/apsgold/index.m3u8
-
 #EXTINF:-1 tvg-name="Aramm TV" tvg-logo="https://play-lh.googleusercontent.com/l8pRSESzaMShO9uvpib8hr5x9x8iltkzvVSQVewH5cYevDPFzmt1Aznr50utJchZbkTu=w512-h960-rw" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Aramm TV
 https://singamcloud.in/arammtv/arammtv/index.m3u8
 
@@ -613,7 +622,7 @@ https://dmtv.iptv.pics/live/dmtv/index.m3u8
 #EXTINF:-1 tvg-name="Ark TV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773607.jpg" group-title="Tamil Local Channels",Ark TV
 https://ktismaservers.in:3917/live/arktvlive.m3u8
 
-#EXTINF:-1 tvg-name="Ark TV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773607.jpg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Ark TV
+#EXTINF:-1 tvg-name="Ark Tv" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773607.jpg" group-title="Tamil Local Channels",Ark Tv
 https://ark.inet.moe/ark/index.m3u8
 
 #EXTINF:-1 tvg-id="ArkTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784905126_WhatsApp%20Image%202026-07-24%20at%2020.08.51.jpeg" tvg-region="Unknown" group-title="Tamil Local Channels",Ark TV [Ktisma]
@@ -634,12 +643,6 @@ http://arulstream.in:1935/ArulTv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Aruljothi TV" tvg-logo="https://i.imgur.com/BmQ0r5S.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Aruljothi TV
 https://jothi.inet.moe/jothitv/index.m3u8
 
-#EXTINF:-1 tvg-name="Arun TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/arun_tv_1770713108.webp" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Arun TV
-https://stream.dureshtech.com/live/aruntv/index.m3u8
-
-#EXTINF:-1 tvg-name="Asoka TV" tvg-logo="https://play-lh.googleusercontent.com/kpymS-jKwGoysI-ZssDRhUsw9SHRvoav3v_aSYjkj98O6CsbAhTagRk5WeFJJQMMUQ=w512-h960-rw" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Asoka TV
-https://ipcloud.live/asokatv/asokahd/index.m3u8
-
 #EXTINF:-1 tvg-name="ATN" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ATN.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",ATN
 https://stream.rojatv.cloud/ATNHD/onecloud/index.m3u8
 
@@ -655,7 +658,7 @@ https://live1.sscloud7.in/live/ayyatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Ayya TV" tvg-logo="" group-title="Tamil Local Channels",Ayya TV
 https://play.applelive.in/ayyatv/ayyatv.m3u8
 
-#EXTINF:-1 tvg-name="Azhagi Tv" tvg-logo="https://vmfm.github.io/tamilvmtv/image/azhagi-tv.jpg" group-title="Tamil Local Channels",Azhagi Tv
+#EXTINF:-1 tvg-name="Azhagi TV" tvg-logo="https://vmfm.github.io/tamilvmtv/image/azhagi-tv.jpg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Azhagi TV
 https://view.rcserver.in/tmp_hls17/azhagitv/index.m3u8
 
 #EXTINF:-1 tvg-name="Bala TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/BalaTV.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Bala TV
@@ -670,7 +673,7 @@ https://web.applelive.in/bhagavathtv/bhagavathtv/index.m3u8
 #EXTINF:-1 tvg-name="Bhairava TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/BhairavaTV.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Bhairava TV
 https://stream.onecloudlive.in/bhairavatv/bhairavahd/index.m3u8
 
-#EXTINF:-1 tvg-name="Bhakthi Tv" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735381330.jpg" group-title="Tamil Local Channels",Bhakthi Tv
+#EXTINF:-1 tvg-name="Bhakthi TV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735381330.jpg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Bhakthi TV
 https://live.sscloud7.in/live/bhakthitv/index.m3u8
 
 #EXTINF:-1 tvg-name="Bible TV" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1762166129_BibleTV.png" group-title="Tamil Local Channels",Bible TV
@@ -684,6 +687,9 @@ https://rtmp.bmlive.net/bms/bmtv/stream.m3u8
 
 #EXTINF:-1 tvg-name="Boobsh TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1743337212_1000035047-removebg-preview.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Boobsh TV
 https://live.applelive.in/boobsh/boobsh/index.m3u8
+
+#EXTINF:-1 tvg-name="Boys Tv" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746641352_1746637562_boys_tv-removebg-preview.png&w=1080&q=75" group-title="Tamil Local Channels",Boys Tv
+https://rtmp.applelive.in/boystv/boystv/index.m3u8
 
 #EXTINF:-1 tvg-name="Britain Tamil Bhakthi" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740571804_Britain%20Tamil-Logo%20Bhakthi.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Britain Tamil Bhakthi
 http://btc.inet.moe/live/btctv/index.m3u8
@@ -712,13 +718,13 @@ https://server.streamwell.in/chittoortvhd.m3u8
 #EXTINF:-1 tvg-name="Chola TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1779616206_chala%20tv.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Chola TV
 https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8?token=dHVsbml0X3N0ZWFsc19zaGl0
 
-#EXTINF:-1 tvg-id="CrayonzTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775814267_CRAYONZ%20TV%20LOGO%20NEW(2).png" tvg-region="Chennai" group-title="Tamil Local Channels",Crayonz TV
+#EXTINF:-1 tvg-name="City Tv" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/CityTV.png" group-title="Tamil Local Channels",City Tv
+https://stream.onecloudlive.in/citytv/citytv/index.m3u8
+
+#EXTINF:-1 tvg-name="Crayonz TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775814267_CRAYONZ%20TV%20LOGO%20NEW(2).png" group-title="Tamil Local Channels",Crayonz TV
 http://sanplayout.xyz/live2/crayonztv/index.m3u8
 
-#EXTINF:-1 tvg-id="CrossTV" tvg-logo="https://play-lh.googleusercontent.com/WogiHnNy_zWGvEkgFmKpeX5qHK-IBW6S7Q013WabPKOwCh0oU1ebmEL4gAi5MJRE0ek" tvg-region="Unknown" group-title="Tamil Local Channels",Cross TV
-https://ytv.iptv.pics/hls/cross_src/index.m3u8
-
-#EXTINF:-1 tvg-name="Cross TV" tvg-logo="https://play-lh.googleusercontent.com/WogiHnNy_zWGvEkgFmKpeX5qHK-IBW6S7Q013WabPKOwCh0oU1ebmEL4gAi5MJRE0ek" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Cross TV
+#EXTINF:-1 tvg-name="Cross TV" tvg-logo="https://play-lh.googleusercontent.com/WogiHnNy_zWGvEkgFmKpeX5qHK-IBW6S7Q013WabPKOwCh0oU1ebmEL4gAi5MJRE0ek" group-title="Tamil Local Channels",Cross TV
 https://ytv.iptv.pics/hls/cross.m3u8
 
 #EXTINF:-1 tvg-name="CRS TV" tvg-logo="https://tamiltvchannels.com/img/devotional/Crs%20TV.png" group-title="Tamil Local Channels",CRS TV
@@ -745,7 +751,7 @@ https://stream.d6-pro.com/Dtv/live/index.m3u8
 #EXTINF:-1 tvg-name="D Tv" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/01/dtv.png" group-title="Tamil Local Channels",D Tv
 https://view.rcserver.in/tmp_hls33/dtv/index.m3u8?token=YW1hemV5
 
-#EXTINF:-1 tvg-id="DarkTelevision" tvg-logo="https://play-lh.googleusercontent.com/GPwEalUw7RIHmutwfZpIS1RtFSIXYk6nzvht_bnRj8nT2PW-WqcDX4LjZeqTSLDwwT0" tvg-region="Kanyakumari" group-title="Tamil Local Channels",Dark Television
+#EXTINF:-1 tvg-id="DarkTelevision" tvg-logo="https://play-lh.googleusercontent.com/GPwEalUw7RIHmutwfZpIS1RtFSIXYk6nzvht_bnRj8nT2PW-WqcDX4LjZeqTSLDwwT0=w512-h960-rw" group-title="Tamil Local Channels",Dark Television
 https://play.applelive.in/darktv/darktv.m3u8
 
 #EXTINF:-1 tvg-name="Dark TV" tvg-logo="" group-title="Tamil Local Channels",Dark TV
@@ -763,8 +769,14 @@ https://play.applelive.in/deebamtv/deebamtv.m3u8
 #EXTINF:-1 tvg-name="Deepam TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777284451_DEEPAM%20TV%20LOGO%20new%20logo%20copy.png" group-title="Tamil Local Channels",Deepam TV
 http://deepam.7starcloud.com:1935/live/deepamtv/live.m3u8
 
+#EXTINF:-1 tvg-name="Deiveega Oli TV" tvg-logo="https://vmfm.github.io/tamilvmtv/image/deiva-oli-tv-1.jpg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Deiveega Oli TV
+https://stream.onecloudlive.in/karthick/deivegaolitv/index.m3u8
+
 #EXTINF:-1 tvg-name="Deva TV" tvg-logo="https://play-lh.googleusercontent.com/_nNyjIXaIYE-6wFUc6wxa2tAnzDA0WwThiocgODyIySkog9_5ukAMlrSFCVFTJpipqiL8vq48IGYdPsvePj_940" group-title="Tamil Local Channels",Deva TV
 https://play.applelive.in/devatv/devatv.m3u8
+
+#EXTINF:-1 tvg-name="Devi Tv" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773261.png" group-title="Tamil Local Channels",Devi Tv
+http://server.mindspell.in/live/devitv/index.m3u8
 
 #EXTINF:-1 tvg-name="Dharshan TV" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/DHARSANTV_Transparent_616466fe-382a-4a91-980c-53b030dd81db.png" group-title="Tamil Local Channels",Dharshan TV
 https://galaxyott.live/hls/dharshantv.m3u8
@@ -775,9 +787,6 @@ https://stream.onecloudlive.in/taitaltv/livetv/index.m3u8
 #EXTINF:-1 tvg-name="Dheiveegam TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1731847296_WhatsApp_Image_2024-11-17_at_6.04.32_PM-removebg-preview.png&w=1920&q=75" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Dheiveegam TV
 https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
 
-#EXTINF:-1 tvg-name="Diamond Talkies" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Diamond Talkies
-https://real-vk.proxy.nellaiiptv.com/DIAMONDTALKIES/index.m3u8
-
 #EXTINF:-1 tvg-name="Digital TV" tvg-logo="" group-title="Tamil Local Channels",Digital TV
 https://play.applelive.in/digitaltv/digitaltv.m3u8
 
@@ -787,7 +796,7 @@ https://stream.sscloud7.in/live/ddtv/index.m3u8
 #EXTINF:-1 tvg-name="DM TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DMTV.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",DM TV
 https://view.rcserver.in/tmp_hls34/dmtv/index.m3u8?token=YW1hemV5
 
-#EXTINF:-1 tvg-name="Dolphin Tv" tvg-logo="https://vmfm.github.io/tamilvmtv/image/Dolphin Tv.png" group-title="Tamil Local Channels",Dolphin Tv
+#EXTINF:-1 tvg-name="Dolphin Tv" tvg-logo="https://vmfm.github.io/tamilvmtv/image/Dolphin Tv.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Dolphin Tv
 https://play.applelive.in/dolphintv/dolphintv.m3u8
 
 #EXTINF:-1 tvg-name="Dolphin TV Sivakasi" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DolphinTVSVK.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Dolphin TV Sivakasi
@@ -796,10 +805,7 @@ https://view.rcserver.in/tmp_hls31/dolphintv/index.m3u8
 #EXTINF:-1 tvg-name="Durai Melodies" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DuraiMelodies.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Durai Melodies
 https://stream.onecloudlive.in/duraitv/classic/index.m3u8
 
-#EXTINF:-1 tvg-name="Durai Tv" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/durai%20tv-4k.png?alt=media&token=632d3193-0055-4c0f-85a0-d912660239c8" group-title="Tamil Local Channels",Durai Tv
-https://ipcloud.live/duraitv/live/index.m3u8
-
-#EXTINF:-1 tvg-name="Duresh TV" tvg-logo="https://files.catbox.moe/2ozvwh.gif" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Duresh TV
+#EXTINF:-1 tvg-name="Duresh Tv" tvg-logo="https://files.catbox.moe/2ozvwh.gif" group-title="Tamil Local Channels",Duresh Tv
 https://real-vk.proxy.nellaiiptv.com/PDPTV/index.m3u8
 
 #EXTINF:-1 tvg-name="Eagle TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746463528_WhatsApp_Image_2025-05-05_at_8.17.32_PM-removebg-preview.png&w=1080&q=75" group-title="Tamil Local Channels",Eagle TV
@@ -847,7 +853,7 @@ https://2-fss-2.streamhoster.com/pl_118/203324-1410936-1/chunklist.m3u8
 #EXTINF:-1 tvg-name="Fashion" tvg-logo="https://vmfm.github.io/tamilvmtv/image/miyamitv-1.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Fashion
 https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/fashion/media_w162147991_9652.m3u8
 
-#EXTINF:-1 tvg-name="Fort Channels" tvg-logo="https://i.ibb.co/Z6tyhWsq/1920x1080.png" group-title="Tamil Local Channels",Fort Channels
+#EXTINF:-1 tvg-name="Fort Channels" tvg-logo="https://i.ibb.co/Z6tyhWsq/1920x1080.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Fort Channels
 https://stream.onecloudlive.in/forttv/fortchannel/index.m3u8
 
 #EXTINF:-1 tvg-name="Fox TV" tvg-logo="https://play-lh.googleusercontent.com/y08p17uRsZ0hztiU9omcldzXhIFr43PsqKVsb9Q7sW-jeUy58z2d9XQr3WXlOZWjONDxAAYzeVHNs28ZE7pp" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Fox TV
@@ -856,13 +862,10 @@ https://stream.onecloudlive.in/foxtv/foxtv/index.m3u8
 #EXTINF:-1 tvg-name="G Max" tvg-logo="" group-title="Tamil Local Channels",G Max
 https://play.applelive.in/gcv/gcv.m3u8
 
-#EXTINF:-1 tvg-id="GaneshTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1734974165_IMG-20241223-WA0162-removebg-preview.png" tvg-region="Srivilliputhur;Virudhunagar" group-title="Tamil Local Channels",Ganesh TV
-https://hls.thendraltv.in/ganeshtv_ade49abb/index.m3u8
-
 #EXTINF:-1 tvg-name="Ganesh TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1734974165_IMG-20241223-WA0162-removebg-preview.png&w=1080&q=75" group-title="Tamil Local Channels",Ganesh TV
 https://live.thendralcloud.in/ganeshtvlive/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Garudan TV" tvg-logo="https://tamiltvchannels.com/img/Devotional%20H/Garudan.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Garudan TV
+#EXTINF:-1 tvg-name="Garudan TV" tvg-logo="https://tamiltvchannels.com/img/Devotional%20H/Garudan.png" group-title="Tamil Local Channels",Garudan TV
 https://play.applelive.in/hls/garudantv.m3u8
 
 #EXTINF:-1 tvg-name="GEM TV" tvg-logo="https://vmfm.github.io/tamilvmtv/image/gem-tv.jpg" group-title="Tamil Local Channels",GEM TV
@@ -871,7 +874,7 @@ https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlis
 #EXTINF:-1 tvg-name="GJV TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/gjv_tv_1770713443.webp" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",GJV TV
 https://gjvtv.nellaiiptv.com/live/SHYGKW/index.m3u8
 
-#EXTINF:-1 tvg-name="Global TV" tvg-logo="https://i.ibb.co/TxFDP8Cz/Globaltvhd.jpg" group-title="Tamil Local Channels",Global TV
+#EXTINF:-1 tvg-id="GlobalTV" tvg-logo="https://i.ibb.co/TxFDP8Cz/Globaltvhd.jpg" tvg-region="Nagercoil;Kanyakumari" group-title="Tamil Local Channels",Global TV
 https://play.applelive.in/globaltv/globaltv.m3u8
 
 #EXTINF:-1 tvg-name="Go Revival TV" tvg-logo="https://i.imgur.com/h9hsOt0.jpg" group-title="Tamil Local Channels",Go Revival TV
@@ -894,6 +897,9 @@ http://live.brightmeltech.in/gsjktv/gsjktv.m3u8
 
 #EXTINF:-1 tvg-name="Gsjk Tv" tvg-logo="https://play-lh.googleusercontent.com/voxNxrEdw97KcEue3gSRIqhzsr397ClbMutP4ZSb6wXHrUJzSex3NPKFH-iwh0leqA=w480-h960-rw" group-title="Tamil Local Channels",Gsjk Tv
 https://live.brightmeltech.in/gsjktv/gsjktv.m3u8
+
+#EXTINF:-1 tvg-name="GTA Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240314_0357246360065588137514740.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",GTA Tamil
+http://144.217.77.42:8888/gta_tamil/index.m3u8
 
 #EXTINF:-1 tvg-name="Gurudevan TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339177.webp" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Gurudevan TV
 https://deva.nellaiiptv.com/Gurudevan/tv/index.m3u8
@@ -922,10 +928,10 @@ https://play.applelive.in/holylandtv/holylandtv.m3u8
 #EXTINF:-1 tvg-name="Horror movies" tvg-logo="https://vmfm.github.io/tamilvmtv/image/horror-movies.png" group-title="Tamil Local Channels",Horror movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IdhayamKids" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1778983676_WhatsApp%20Image%202026-05-17%20at%207.34.57%20AM.jpeg" tvg-region="Unknown" group-title="Tamil Local Channels",Idhayam Kids
+#EXTINF:-1 tvg-name="Idhayam Kids" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1778983676_WhatsApp%20Image%202026-05-17%20at%207.34.57%20AM.jpeg" group-title="Tamil Local Channels",Idhayam Kids
 http://sanplayout.xyz/live2/idhayamkidz/index.m3u8
 
-#EXTINF:-1 tvg-id="IdhayamTV" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1778983521_WhatsApp%20Image%202026-05-17%20at%207.34.56%20AM.jpeg" tvg-region="Unknown" group-title="Tamil Local Channels",Idhayam TV
+#EXTINF:-1 tvg-name="Idhayam TV" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1778983521_WhatsApp%20Image%202026-05-17%20at%207.34.56%20AM.jpeg" group-title="Tamil Local Channels",Idhayam TV
 http://sanplayout.xyz/live2/idhayamtv/index.m3u8
 
 #EXTINF:-1 tvg-name="Imai TV" tvg-logo="https://i.imgur.com/9tODclu.png" group-title="Tamil Local Channels",Imai TV
@@ -943,13 +949,7 @@ https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
 #EXTINF:-1 tvg-name="Isai Saaral" tvg-logo="https://i.ibb.co/4RCVPdb5/1000136628.jpg" group-title="Tamil Local Channels",Isai Saaral
 http://srnet.bmlive.net:1935/isaisaral/mystream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IsaiSaral" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1773995237_WhatsApp%20Image%202026-03-20%20at%201.47.36%20PM.jpeg" tvg-region="Unknown" group-title="Tamil Local Channels",Isai Saral
-https://srnet-bmlive-net.proxy.nellaiiptv.com/isaisaral/mystream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Isai TV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721757570.PNG" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Isai TV
-https://server.sscloud7.in/isaihd/isaihd/index.m3u8
-
-#EXTINF:-1 tvg-name="Islamic Channel" tvg-logo="https://play-lh.googleusercontent.com/O1pprcPKyDJ95KLGDKyVtcoLrSgAeX0-STgyaYAWYEwBAiReAhxhE2asi4HXP2cplqM" group-title="Tamil Local Channels",Islamic Channel
+#EXTINF:-1 tvg-name="Islamic Channel" tvg-logo="https://play-lh.googleusercontent.com/O1pprcPKyDJ95KLGDKyVtcoLrSgAeX0-STgyaYAWYEwBAiReAhxhE2asi4HXP2cplqM" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Islamic Channel
 https://play.applelive.in/islamicchannel/islamicchannel.m3u8
 
 #EXTINF:-1 tvg-name="Ithazh TV" tvg-logo="https://play-lh.googleusercontent.com/WOVl9OoVhMuStsl6ws9HTXQZrQgk__GjErulmJpy7JnCxOp0yDc5e0SThZ5lIF87xrY" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Ithazh TV
@@ -982,17 +982,14 @@ https://rtmp.bmlive.net/bms/jayamtv/stream.m3u8
 #EXTINF:-1 tvg-name="Jayam Tv" tvg-logo="https://vmfm.github.io/tamilvmtv/image/jayam namakkal.png" group-title="Tamil Local Channels",Jayam Tv
 https://view.rcserver.in/tmp_hls20/index.m3u8
 
-#EXTINF:-1 tvg-name="Jayam TV Karur" tvg-logo="https://play-lh.googleusercontent.com/c6mTAt5hkqZtmfRu_xJiZLY8kTGEcSC2Z2bDZuhYbRvfRrFYZsMCQX_qF8GJEd4KA2At=w512-h960-rw" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Jayam TV Karur
-https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
-
 #EXTINF:-1 tvg-name="Jayam TV Polur" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Jayam TV Polur
 https://live.singamcloud.in/jayamtv/jayamki/index.m3u8
 
-#EXTINF:-1 tvg-name="Jayam TV Sivakasi" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1775654228_Jayam%20Tv%20Logo.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Jayam TV Sivakasi
+#EXTINF:-1 tvg-name="Jayam Tv Sivakasi" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1775654228_Jayam%20Tv%20Logo.png" group-title="Tamil Local Channels",Jayam Tv Sivakasi
 https://jayamtv-ott.tamilstream.in/jayamtv/sivakasi/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Jayam TV Tenkasi" tvg-logo="https://play-lh.googleusercontent.com/3bd3JORuDwSzzHtaC_jwcL7WdAG3cYvHfrr8TyKzib4vXVcE5767ytVMy9br_ozStQ" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Jayam TV Tenkasi
-https://ipcloud.live/jayamtv/jayamtvhd/index.m3u8?token=jayamtv
+#EXTINF:-1 tvg-name="Jayam TV Trichy" tvg-logo="https://play-lh.googleusercontent.com/ubSsc9-EysszvQIAHy9iHpzL7qjEd3yQlBVDYrpaKS2qH1j9sZmmIsT0hOgZplYiuhDc2206kZn3TXZUOiOoHtY" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Jayam TV Trichy
+https://live.onecloudlive.in/jmhd/jmtv/index.m3u8
 
 #EXTINF:-1 tvg-name="JC TV" tvg-logo="https://i.ibb.co/tTrmrf8T/JCTV.png" group-title="Tamil Local Channels",JC TV
 https://play.applelive.in/jctv/jctv.m3u8
@@ -1018,7 +1015,7 @@ https://stream.onecloudlive.in/jeyantv/jeyantv/index.m3u8
 #EXTINF:-1 tvg-name="Jenifer TV" tvg-logo="https://i.ibb.co/wF0LnNcQ/1000144434.jpg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Jenifer TV
 https://live1.sscloud7.in/live/jenifertv/index.m3u8
 
-#EXTINF:-1 tvg-name="Jesus Alive Television" tvg-logo="https://play-lh.googleusercontent.com/BwFSh_3bWWKnSk1opgiBzALoS60Vo2jW_myEeopGeiucvKj8HDzIx4oqJtDu0W5ulw=w51-h960-rw" group-title="Tamil Local Channels",Jesus Alive Television
+#EXTINF:-1 tvg-name="Jesus Alive Television" tvg-logo="https://play-lh.googleusercontent.com/BwFSh_3bWWKnSk1opgiBzALoS60Vo2jW_myEeopGeiucvKj8HDzIx4oqJtDu0W5ulw=w51-h960-rw" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Jesus Alive Television
 https://play.applelive.in/jesusalivetv/jesusalivetv.m3u8
 
 #EXTINF:-1 tvg-name="Jesus TV" tvg-logo="https://tamiltvchannels.com/img/devotional/Jesus%20TV.png" group-title="Tamil Local Channels",Jesus TV
@@ -1030,7 +1027,7 @@ https://stream.singamcloud.in/jeyamplus/jeyamplus/index.m3u8
 #EXTINF:-1 tvg-name="Jeyam Television" tvg-logo="https://anywhere.pwisetthon.com/http://jeyamtv.in/wp-content/uploads/2020/01/jeyam-tv-logo-e1581244005299.png" group-title="Tamil Local Channels",Jeyam Television
 https://jeyamtv.livebox.co.in/JeyamTelevisionhls/JeyamTelevision.m3u8
 
-#EXTINF:-1 tvg-name="Jeyam Tv" tvg-logo="https://play-lh.googleusercontent.com/xcQOgfZJTtxaQJmjuHk_hvvZNzC-gm39Dn1wfPbZmC6G1RHEpgHJtSULkmRku-fY_O4" group-title="Tamil Local Channels",Jeyam Tv
+#EXTINF:-1 tvg-name="Jeyam TV" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Jeyam TV
 https://live.sscloud7.in/live/jeyamtv/index.m3u8
 
 #EXTINF:-1 tvg-name="Jeyan TV" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Jeyan TV
@@ -1045,7 +1042,7 @@ https://play.applelive.in/jeysontv/jeysontv.m3u8
 #EXTINF:-1 tvg-name="Jhp TV" tvg-logo="https://vmfm.github.io/tamilvmtv/image/jhp-tv.png" group-title="Tamil Local Channels",Jhp TV
 http://jhptv.7starcloud.com:1935/live/jhptv/chunklist_w410312323.m3u8
 
-#EXTINF:-1 tvg-name="Jith Tv" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735924218.PNG" group-title="Tamil Local Channels",Jith Tv
+#EXTINF:-1 tvg-name="Jith TV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1735924218.PNG" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Jith TV
 https://sscloud7.com/live/jithtv/index.m3u8
 
 #EXTINF:-1 tvg-name="JJ Max" tvg-logo="" group-title="Tamil Local Channels",JJ Max
@@ -1059,9 +1056,6 @@ http://jostv.phoenixcreations.online/jostv/jostv/index.m3u8
 
 #EXTINF:-1 tvg-name="Jose TV" tvg-logo="https://play-lh.googleusercontent.com/_V5dp42Hsk7U5NwrvilcuWyS3A6fBVZyoIwBFqFVoXvCI9Q3Km0APnP6rS_WYVg-mIU=w512-h960-rw" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Jose TV
 http://josetv.phoenixcreations.online/josetv/josetv/index.m3u8
-
-#EXTINF:-1 tvg-name="Jose Tv" tvg-logo="https://play-lh.googleusercontent.com/_V5dp42Hsk7U5NwrvilcuWyS3A6fBVZyoIwBFqFVoXvCI9Q3Km0APnP6rS_WYVg-mIU=w512-h960-rw" group-title="Tamil Local Channels",Jose Tv
-https://josetv.phoenixcreations.online/josetv/josetv/index.m3u8
 
 #EXTINF:-1 tvg-name="Joshua Praise TV" tvg-logo="https://phoenixcreations.online/ott/joshuaott/uploads/1763130484_JP%20TV%20copy.jpg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Joshua Praise TV
 http://joshuatv-live.phoenixcreations.online/joshuatv/live/playlist.m3u8
@@ -1084,7 +1078,7 @@ https://joy.inet.moe/live/joytv/index.m3u8
 #EXTINF:-1 tvg-name="Joy TV HD" tvg-logo="https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png" group-title="Tamil Local Channels",Joy TV HD
 https://ktismaservers.in:3412/live/joytvlive.m3u8
 
-#EXTINF:-1 tvg-name="Jrp Tv" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739251156_JRP%2520.png&w=1920&q=75" group-title="Tamil Local Channels",Jrp Tv
+#EXTINF:-1 tvg-name="JRP TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739251156_JRP%2520.png&w=1920&q=75" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",JRP TV
 https://ipcloud.live/jrptv/jrphd/index.m3u8
 
 #EXTINF:-1 tvg-name="JTK TV" tvg-logo="https://tavapi.inditechman.com/extras/images/jtktv.jpg" group-title="Tamil Local Channels",JTK TV
@@ -1104,9 +1098,6 @@ https://web.applelive.in/stream/kktv/index.m3u8
 
 #EXTINF:-1 tvg-name="Karthick TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739547181_WhatsApp_Image_2025-02-14_at_8.50.29_PM__2_-removebg-preview.png&w=1920&q=75" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Karthick TV
 https://ipcloud.live/karthick/karthicktvhd/index.m3u8
-
-#EXTINF:-1 tvg-name="Kathir TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1776329455_KATHIR%20TV.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Kathir TV
-https://stream.ipcloud.live/kathirtvhd/livestream/index.m3u8
 
 #EXTINF:-1 tvg-name="Kavin TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736878149_KAVIN%2520TV.png&w=1920&q=75" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Kavin TV
 http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
@@ -1135,9 +1126,6 @@ https://server.sscloud7.in/kingtv/kingtv/index.m3u8
 #EXTINF:-1 tvg-name="King Tv Alangulam" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721812585.PNG" group-title="Tamil Local Channels",King Tv Alangulam
 https://server.sscloud7.in/kingtv/kingtv/index.m3u8
 
-#EXTINF:-1 tvg-name="King TV Ranipet" tvg-logo="https://vmfm.github.io/tamilvmtv/image/King TV Ranipet.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",King TV Ranipet
-https://ipcloud.live/kingtv/kingtv/index.m3u8
-
 #EXTINF:-1 tvg-name="King TV Ranipet" tvg-logo="https://vmfm.github.io/tamilvmtv/image/King TV Ranipet.png" group-title="Tamil Local Channels",King TV Ranipet
 https://ipcloud.live/kingtv/kingtv/index.mpd
 
@@ -1147,17 +1135,14 @@ http://kingstv.phoenixcreations.online/kingstv/kings/playlist.m3u8
 #EXTINF:-1 tvg-name="KM Television" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777711975_daeace30-6395-4e87-b81b-c1eb3f5b1735-Photoroom.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",KM Television
 https://stream.ashokadigital.net/KMTELEVISION/kmtelevision/index.m3u8?token=dHVsbml0aXNhZHVtZHVt
 
-#EXTINF:-1 tvg-name="Koodal Tv" tvg-logo="https://play-lh.googleusercontent.com/4sUMv9Mkwhuiy_x-ChuxbggxAd7bo2Z_HbESg30-2By3ll0RN65zft0qOAGHxen6stPRjMpO_O11u9Y_q0uoC9w" group-title="Tamil Local Channels",Koodal Tv
+#EXTINF:-1 tvg-name="Koodal TV" tvg-logo="https://play-lh.googleusercontent.com/4sUMv9Mkwhuiy_x-ChuxbggxAd7bo2Z_HbESg30-2By3ll0RN65zft0qOAGHxen6stPRjMpO_O11u9Y_q0uoC9w" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Koodal TV
 https://web.applelive.in/koodaltv/koodaltv/index.m3u8
 
-#EXTINF:-1 tvg-name="Krish TV" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Krish TV
+#EXTINF:-1 tvg-name="Krish Tv" tvg-logo="" group-title="Tamil Local Channels",Krish Tv
 https://stream.onecloudlive.in/krishnatv/krishnatvhd/index.m3u8
 
 #EXTINF:-1 tvg-name="KRN TV" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",KRN TV
 https://stream.onecloudlive.in/krntv/krntvhd/index.m3u8
-
-#EXTINF:-1 tvg-name="KSR TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/KSRTV.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",KSR TV
-http://ksrtv.stream.onecloudlive.in:8080/ksrtv/ksrtvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="KumariKathirTV" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/kumari%20kathir.png" group-title="Tamil Local Channels",Kumari Kathir TV
 https://play.applelive.in/jjmax/jjmax.m3u8
@@ -1174,9 +1159,6 @@ https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 #EXTINF:-1 tvg-name="Lion TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/LionTV.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Lion TV
 https://stream.iplive.xyz/smmedia/liontv/index.m3u8
 
-#EXTINF:-1 tvg-name="Lourdes TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1781266470.webp" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Lourdes TV
-https://pondicherry-lourdestv.stream.nellaiiptv.com/live/pondicherry-lourdestv/index.m3u8
-
 #EXTINF:-1 tvg-name="Love Joy TV" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Love Joy TV
 https://ipcloud.live/novamani/lovejoytv/index.m3u8
 
@@ -1185,9 +1167,6 @@ http://luckytv.stream.onecloudlive.in/luckytv/luckytvhd/index.m3u8
 
 #EXTINF:-1 tvg-name="Lucky TV Tenkasi" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Lucky TV Tenkasi
 https://live.onecloudlive.in/luckytvtk/luckytv/index.m3u8
-
-#EXTINF:-1 tvg-name="M Television" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1743837928_TELEVESION.png&w=1920&q=75" group-title="Tamil Local Channels",M Television
-https://ipcloud.live/mtv/menhd/index.m3u8
 
 #EXTINF:-1 tvg-name="M&M TV" tvg-logo="https://play-lh.googleusercontent.com/mPyV_zu5RklUrVQtCR345XwLFN5mkB3OYADq40MRja_dByhqcNHxjXACwy4-hV5KmRE=w512-h960-rw" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",M&M TV
 https://ipcloud.live/mmtv/mmtvhd/index.m3u8
@@ -1201,13 +1180,13 @@ https://stream.onecloudlive.in/mm/maduratv/index.m3u8
 #EXTINF:-1 tvg-name="Madurai Arasi TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1781584569_Madurai%20Arasi%20(2).png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Madurai Arasi TV
 https://app.xstream.onecloudlive.in/maduraiarasi/livestream/index.m3u8
 
+#EXTINF:-1 tvg-name="Magalir Tv" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-MAGALIR-TV.png?alt=media&token=479bc182-afa2-406a-8dbb" group-title="Tamil Local Channels",Magalir Tv
+https://ipcloud.live/ctn/magalir/index.m3u8
+
 #EXTINF:-1 tvg-name="Mahimai TV" tvg-logo="https://tamiltvchannels.com/img/devotional/Mahimai%20TV.png" group-title="Tamil Local Channels",Mahimai TV
 https://ktismaservers.in:3161/live/mahimaitvlive.m3u8
 
-#EXTINF:-1 tvg-name="maisha tv" tvg-logo="https://vmfm.github.io/tamilvmtv/image/Manisha_Tv.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",maisha tv
-https://stream.sscloud7.in/live/maishatv/index.m3u8
-
-#EXTINF:-1 tvg-id="MAPATV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MakkalpaniTV.png" tvg-region="Nagercoil;Kanyakumari" group-title="Tamil Local Channels",Makkalpani TV
+#EXTINF:-1 tvg-id="MakkalpaniTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MakkalpaniTV.png" tvg-region="Nagercoil;Kanyakumari" group-title="Tamil Local Channels",Makkalpani TV
 https://play.applelive.in/mapatv/mapatv.m3u8
 
 #EXTINF:-1 tvg-name="Malar TV Surandai" tvg-logo="https://play-lh.googleusercontent.com/VFvalPp4IMh7AVU4OOgF7-mnNhSkxnFB5LNnqa31Uds6EjB9Xk3YoMo1WrH9V13rkw_vPC49Dzh1JWnzzrVu" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Malar TV Surandai
@@ -1234,11 +1213,11 @@ https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
 #EXTINF:-1 tvg-name="Matha TV" tvg-logo="https://play-lh.googleusercontent.com/g5zYMmLwiKGcah_KvelGEB2ot1VTbB3HrjZpR2hs0qDevPM6eosAhs1TxXVLkO55sU4=w512-h960-rw" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Matha TV
 https://live.mathatv.in/mathatv/mathatv/index.m3u8
 
-#EXTINF:-1 tvg-name="Mathan TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MathanTV.png" group-title="Tamil Local Channels",Mathan TV
-https://ipcloud.live/mathantv/mathantv/index.mpd
-
 #EXTINF:-1 tvg-name="Mathan TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MathanTV.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Mathan TV
 https://ipcloud.live/mathantv/mathantv/index.m3u8
+
+#EXTINF:-1 tvg-name="Mathan TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MathanTV.png" group-title="Tamil Local Channels",Mathan TV
+https://ipcloud.live/mathantv/mathantv/index.mpd
 
 #EXTINF:-1 tvg-name="Mathi TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1753716414_madhi%2520tv.png&w=1080&q=75" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Mathi TV
 https://notvstream.in/mathitv/mathitv/index.m3u8
@@ -1262,7 +1241,7 @@ https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 https://meiveli.livebox.co.in/MEIVELIMAINhls/meivelimain.m3u8
 
 #EXTINF:-1 tvg-name="Minnal Tv" tvg-logo="https://vmfm.github.io/tamilvmtv/image/minnal-tv-1.jpg" group-title="Tamil Local Channels",Minnal Tv
-https://ipcloud.live/app/minnaltv/minnalhd/index.m3u8
+https://ipcloud.live/minnaltv/minnalhd/index.m3u8
 
 #EXTINF:-1 tvg-name="miyami 1" tvg-logo="https://vmfm.github.io/tamilvmtv/image/miyamitv-1.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",miyami 1
 https://59ec5453559f0.streamlock.net/hiltonchannel/hiltonchannel/chunklist_w1869245857.m3u8
@@ -1276,7 +1255,7 @@ https://59ec5453559f0.streamlock.net/JennyLive/_definst_/JennyLive/media_9264.m3
 #EXTINF:-1 tvg-name="MM TV Jeyam Plus" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",MM TV Jeyam Plus
 https://ipcloud.live/mmtv/jeyamplus/index.m3u8
 
-#EXTINF:-1 tvg-name="MM TV Valliyur" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MMTVValliyur.png" group-title="Tamil Local Channels",MM TV Valliyur
+#EXTINF:-1 tvg-name="MM TV Valliyur" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MMTVValliyur.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",MM TV Valliyur
 http://mmtv.phoenixcreations.online/mmtv/mm/index.mpd
 
 #EXTINF:-1 tvg-name="MN TV" tvg-logo="https://vmfm.github.io/tamilvmtv/image/mn-tv.png" group-title="Tamil Local Channels",MN TV
@@ -1294,8 +1273,11 @@ https://live.maxtn.in/moontv/moontv/index.m3u8
 #EXTINF:-1 tvg-name="MSN TV" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",MSN TV
 https://ipcloud.live/msntv/msntv/index.m3u8
 
-#EXTINF:-1 tvg-name="MTV Virudhunagar" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777712105_MTV%201.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",MTV Virudhunagar
+#EXTINF:-1 tvg-name="Mtv Virudhunagar" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777712105_MTV%201.png" group-title="Tamil Local Channels",Mtv Virudhunagar
 https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8
+
+#EXTINF:-1 tvg-name="Mullai Tv" tvg-logo="https://play-lh.googleusercontent.com/wfADwsL_Py771w_iaMVZNMa83w8JAhIAIrnRjMCoW8lN-6ip-F5jE4gvvJkMf3u7BA=w512-h960-rw" group-title="Tamil Local Channels",Mullai Tv
+https://live.apcloud.in/mullaitv/live/index.m3u8
 
 #EXTINF:-1 tvg-name="My Faith TV" tvg-logo="https://play-lh.googleusercontent.com/jwlLipuM4pwkQqg6ImIgREz9w6fhXfjnepY3tS5j8E0rgWVSROCqcxsyWKpGzxAFoSux" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",My Faith TV
 https://stream.iplive.xyz/faithtv/faithtv/index.m3u8
@@ -1306,7 +1288,7 @@ https://5790d294af2dc.streamlock.net/myjesustv/myjesustv/playlist.m3u8
 #EXTINF:-1 tvg-name="Naga TV" tvg-logo="https://play-lh.googleusercontent.com/Z3NviXxNAKysRw8YFctVNqO87auqy7ic731owb8D-e2efpZO2ZM-iObZippjiwjHRwq3tB_sRDSdJC_WO4M9=s512-rw" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Naga TV
 http://nagatv.phoenixcreations.online/nagatv/nagatv/index.m3u8
 
-#EXTINF:-1 tvg-name="Namathu Sangamam TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1747992529_namathu%2520%2520SANGAMAM%2520TV.png&w=1920&q=75" group-title="Tamil Local Channels",Namathu Sangamam TV
+#EXTINF:-1 tvg-id="NamathuSangamamTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1747992529_namathu%20%20SANGAMAM%20TV.png" tvg-region="Bhavani;Erode" group-title="Tamil Local Channels",Namathu Sangamam TV
 http://yours.7starcloud.com:1935/live/nmtv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Nanjil Natham TV" tvg-logo="https://tamiltvchannels.com/img/devotional/Nanjilnatham%20TV.png" group-title="Tamil Local Channels",Nanjil Natham TV
@@ -1314,9 +1296,6 @@ https://play.applelive.in/hls/nanjilnathamtv.m3u8
 
 #EXTINF:-1 tvg-name="National Geo" tvg-logo="https://vmfm.github.io/tamilvmtv/image/National_Geographic_Channel.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",National Geo
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
-
-#EXTINF:-1 tvg-name="Naveen TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1772874205.webp" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Naveen TV
-https://naveentv.stream.nellaiiptv.com/live/naveentv/index.m3u8
 
 #EXTINF:-1 tvg-name="Nellai TV" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Nellai TV
 https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
@@ -1327,13 +1306,16 @@ http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR
 #EXTINF:-1 tvg-name="Nijam TV" tvg-logo="https://tamiltvchannels.com/img/devotional/Nijam%20TV.png" group-title="Tamil Local Channels",Nijam TV
 https://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8
 
+#EXTINF:-1 tvg-id="3550" tvg-logo="https://tamiltvchannels.com/img/devotional/Nijam%20TV.png" tvg-region="Valliyur;Tirunelveli" group-title="Tamil Local Channels",Nijam TV [IndiaMatrix]
+https://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8
+
 #EXTINF:-1 tvg-name="Nila TV" tvg-logo="https://play-lh.googleusercontent.com/zNrBrOSIJ_iVatOnqVAr6f-oMeFe0_2uyhwwqstMs7iwiRmuvvMzKxIba6hJlTRzMYw=w512-h960-rw" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Nila TV
 https://live.olidigital.in/nilatv/nilatv/index.m3u8
 
 #EXTINF:-1 tvg-name="Nisha TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1731776131_WhatsApp_Image_2024-11-16_at_8.36.22_PM-removebg-preview.png&w=1920&q=75" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Nisha TV
 http://103.159.180.5:1935/live/nisha/live.m3u8
 
-#EXTINF:-1 tvg-id="NithyaVelichamTV" tvg-logo="" group-title="Tamil Local Channels",Nithya Velicham TV
+#EXTINF:-1 tvg-id="NithyaVelichamTV" tvg-logo="https://yt3.googleusercontent.com/mY__3DwPX3v-jE4Bo0iTA05C7QoJm4cEw1XyrR3SYlEmaZif6r8FKYZCDNFs2v5UliBrMfrw" tvg-region="Unknown" group-title="Tamil Local Channels",Nithya Velicham TV
 https://play.applelive.in/nithyavelichamtv/nithyavelichamtv.m3u8
 
 #EXTINF:-1 tvg-name="NRJ TV" tvg-logo="https://i.ibb.co/rRGbbWJd/1-copy.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",NRJ TV
@@ -1360,6 +1342,9 @@ https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-name="Om Sakthi TV" tvg-logo="https://vmfm.github.io/tamilvmtv/image/om-sakthi-tv.jpg" group-title="Tamil Local Channels",Om Sakthi TV
 https://live1.sscloud7.com/live/omsakthitv/index.mpd
 
+#EXTINF:-1 tvg-name="Om Sakthi Tv" tvg-logo="https://vmfm.github.io/tamilvmtv/image/om-sakthi-tv.jpg" group-title="Tamil Local Channels",Om Sakthi Tv
+https://stream.onecloudlive.in/omsakthitv/omsakthitv/index.m3u8
+
 #EXTINF:-1 tvg-name="Om TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1773769052_om%20tv.png" group-title="Tamil Local Channels",Om TV
 http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
 
@@ -1372,14 +1357,11 @@ https://account21.livebox.co.in/oscartvhls/live.m3u8
 #EXTINF:-1 tvg-name="Params TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777263574_params%202.png" group-title="Tamil Local Channels",Params TV
 http://shreeparams.7starcloud.com:1935/live/paramstv/live.m3u8
 
-#EXTINF:-1 tvg-name="PCN Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1769084640_new%20pcn%20logo.psd%20-%20PNG%2000%20(2).png" group-title="Tamil Local Channels",PCN Channel
+#EXTINF:-1 tvg-id="PCNChannel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1769084640_new%20pcn%20logo.psd%20-%20PNG%2000%20(2).png" tvg-region="Unknown" group-title="Tamil Local Channels",PCN Channel
 https://pcntv.wmsdigital.in/hls/gtv/stream.m3u8
 
 #EXTINF:-1 tvg-name="PCN TV" tvg-logo="https://i.ibb.co/vcfjYB9/PCN.png" group-title="Tamil Local Channels",PCN TV
 https://rtmp.bmlive.net/bms/pcn/stream.m3u8
-
-#EXTINF:-1 tvg-name="PDP TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/pdp_tv_1770711747.webp" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",PDP TV
-https://pdptv.stream.nellaiiptv.com/live/pdptv/index.m3u8
 
 #EXTINF:-1 tvg-name="Peniel TV" tvg-logo="https://play-lh.googleusercontent.com/nGUr3mUAO4e7D2vhu9qgfQYUHSttDW_WoYXyqbQ3njxq0XILcNhkcHXXNt0LPv1FvrY" group-title="Tamil Local Channels",Peniel TV
 http://indiamatrix.in/penieltv/penieltv.m3u8
@@ -1401,9 +1383,6 @@ https://stream.onecloudlive.in/pntv/pntv/index.m3u8
 
 #EXTINF:-1 tvg-name="Polimer Channel" tvg-logo="https://play-lh.googleusercontent.com/DiZsLeRIoky2i4qkkR36SF7R5MR_fwb0Hl41U3wAlVZsi1wKMBxbK3fzvln8YUQrmbkV=w512-h960-rw" group-title="Tamil Local Channels",Polimer Channel
 http://polimer.7starcloud.com:1935/polimer/live/live.m3u8
-
-#EXTINF:-1 tvg-name="Pothigai Prime" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Pothigai Prime
-https://view.apserver.in/tmp_hls5/pothigaiprime/index.m3u8
 
 #EXTINF:-1 tvg-name="PR TV" tvg-logo="" group-title="Tamil Local Channels",PR TV
 https://play.applelive.in/prtv/prtv.m3u8
@@ -1456,16 +1435,13 @@ https://live.brightmeltech.in/ramyatv/ramyatv.m3u8
 #EXTINF:-1 tvg-name="Ratchagar TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/RatchagarTV.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Ratchagar TV
 http://ratchagartv.phoenixcreations.online/ratchagartv/ratchagar/index.m3u8
 
-#EXTINF:-1 tvg-id="RetroMusic" tvg-logo="" tvg-region="Unknown" group-title="Tamil Local Channels",Retro Music
+#EXTINF:-1 tvg-name="Retro Music" tvg-logo="" group-title="Tamil Local Channels",Retro Music
 https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ridsys TV" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" group-title="Tamil Local Channels",Ridsys TV
 http://ptuf.ridsys.in/riptv/live/RIDSYS_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Right TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775293989_Logo.PNG" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Right TV
-https://righttv.stream.nellaiiptv.com/live/righttv/index.m3u8
-
-#EXTINF:-1 tvg-name="Riya TV" tvg-logo="" group-title="Tamil Local Channels",Riya TV
+#EXTINF:-1 tvg-name="Riya TV" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Riya TV
 https://play.applelive.in/riyatv/riyatv.m3u8
 
 #EXTINF:-1 tvg-name="RJ Tamil" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739531400_IMG_2914.PNG&w=1920&q=75" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",RJ Tamil
@@ -1489,10 +1465,10 @@ https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-name="Royal TV" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/01/royal-tv.jpg" group-title="Tamil Local Channels",Royal TV
 https://play.applelive.in/royaltv/royaltv.m3u8
 
-#EXTINF:-1 tvg-name="Royal Tv" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/01/royal-tv.jpg" group-title="Tamil Local Channels",Royal Tv
+#EXTINF:-1 tvg-name="Royal TV" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/01/royal-tv.jpg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Royal TV
 https://cloudstream4k.com/jptvhd/bsk/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Royal Tv Guduvancheri" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746501094_ROYAL%20TV.png" group-title="Tamil Local Channels",Royal Tv Guduvancheri
+#EXTINF:-1 tvg-name="Royal TV Guduvancheri" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746501094_ROYAL%20TV.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Royal TV Guduvancheri
 http://cloudstream4k.com:1935/jptvhd/bsk/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Royal TV Nellai" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/royal_tv_1770713037.webp" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Royal TV Nellai
@@ -1507,9 +1483,6 @@ http://148.113.170.17:8091/rudhram/index.m3u8
 #EXTINF:-1 tvg-name="Ruhasha TV" tvg-logo="https://play-lh.googleusercontent.com/NfEESHZTMfXp45bOwl7PF1DkuV8L9-tucksbtHRxUv0b5opK1yUWCpJO-CqLSq4ujE1SFNoEhZtpvxl5554LUA" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Ruhasha TV
 https://live.applelive.in/ruhashatv/ruhashatv/index.m3u8
 
-#EXTINF:-1 tvg-name="Rv Tamil" tvg-logo="" group-title="Tamil Local Channels",Rv Tamil
-https://ipcloud.live/rvtv/rvtvhd/index.m3u8
-
 #EXTINF:-1 tvg-name="S Max TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1758117813_stv%2520maxxxlogo%2520copy.png&w=1080&q=75" group-title="Tamil Local Channels",S Max TV
 http://play.applelive.in/smaxtv/smaxtv.m3u8
 
@@ -1519,19 +1492,13 @@ http://ptuf.ridsys.in/riptv/live/S_MEDIA/index.m3u8
 #EXTINF:-1 tvg-name="S TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/STV.png" group-title="Tamil Local Channels",S TV
 https://apis.avmediawork.in/tvhls/stv.m3u8
 
-#EXTINF:-1 tvg-name="S TV Madurai" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1783178029.webp" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",S TV Madurai
-https://stv.stream.nellaiiptv.com/live/stv/index.m3u8
-
 #EXTINF:-1 tvg-name="Sabari TV Aruppukottai" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SabariTVAruppukottai.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Sabari TV Aruppukottai
 https://stream.onecloudlive.in/sabaritv/sabaritvhd/index.m3u8
-
-#EXTINF:-1 tvg-name="Sachin TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736158345_sachin_00000%2520(1).png&w=1920&q=75" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Sachin TV
-https://ipcloud.live/sachintv/sachintvhd/index.m3u8
 
 #EXTINF:-1 tvg-name="Sahara TV" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1775899044_WhatsApp%20Image%202026-04-11%20at%202.37.02%20PM.jpeg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Sahara TV
 https://ipcloud.live/saharatv/saharatvhd/index.m3u8
 
-#EXTINF:-1 tvg-name="Sai TV Madurai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739599891_logo-removebg-preview.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Sai TV Madurai
+#EXTINF:-1 tvg-name="Sai Tv Madurai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739599891_logo-removebg-preview.png" group-title="Tamil Local Channels",Sai Tv Madurai
 https://3.proxy.nellaiiptv.com/NOTV/SAITVMD/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-name="Sai TV Tenkasi" tvg-logo="https://play-lh.googleusercontent.com/FvkjCrWmYV__Sl4_7wf0ScZrrHcHfYlo3-6JmRn0NkxTXJ7IGHLoMLqa576xrHXMU-dc" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Sai TV Tenkasi
@@ -1564,8 +1531,8 @@ https://galaxyott.live/hls/sanaplus.m3u8
 #EXTINF:-1 tvg-name="Sana TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sanatv.png" group-title="Tamil Local Channels",Sana TV
 https://galaxyott.live/hls/sanatv.m3u8
 
-#EXTINF:-1 tvg-id="3201" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sanatv.png" tvg-region="Panruti;Cuddalore" group-title="Tamil Local Channels",Sana TV [YuppTV]
-https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
+#EXTINF:-1 tvg-id="3201" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sanatv.png" tvg-region="Panruti;Cuddalore" group-title="Tamil Local Channels",Sana TV [OTTLive]
+https://stream.ottlive.co.in/sanatv/index.m3u8
 
 #EXTINF:-1 tvg-name="Santhiya TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746533803_saN.png&w=1920&q=75" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Santhiya TV
 https://stream.onecloudlive.in/santhiyatv/santhiyatvhd/index.m3u8
@@ -1582,16 +1549,13 @@ http://sasitv.phoenixcreations.online/sasitv/sasitv/index.m3u8
 #EXTINF:-1 tvg-name="Sasi Tv" tvg-logo="https://play-lh.googleusercontent.com/BSGSB__5LiAK5nkNlXhPbqj6KxgwekO56zvskIb6fVVStrw1cgcr2BFh8hBOxQ-a1w=w512-h960-rw" group-title="Tamil Local Channels",Sasi Tv
 https://sasitv.phoenixcreations.online/sasitv/sasitv/index.m3u8
 
-#EXTINF:-1 tvg-name="SD Media" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",SD Media
-https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
-
 #EXTINF:-1 tvg-name="Selfie TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782729015.webp" group-title="Tamil Local Channels",Selfie TV
 https://play.applelive.in/selfeetv/selfeetv.m3u8
 
 #EXTINF:-1 tvg-name="Selva Tamil TV" tvg-logo="https://play-lh.googleusercontent.com/DzEobB1q02UpgqXpng4DebsPDTQ1bH_jpLfhEr_plkPrDBBPpR5_jvJDq15VAPAanVIwnh5MYLuH8wgc5mUt" group-title="Tamil Local Channels",Selva Tamil TV
 https://stream.sscloud7.in/live/selvatamiltv/index.mpd
 
-#EXTINF:-1 tvg-name="Senthamil Tv" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SenthamilTV.png" group-title="Tamil Local Channels",Senthamil Tv
+#EXTINF:-1 tvg-name="Senthamil TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SenthamilTV.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Senthamil TV
 https://view.rcserver.in/tmp_hls16/senthamiltv/index.m3u8
 
 #EXTINF:-1 tvg-name="Senthur TV" tvg-logo="https://vmfm.github.io/tamilvmtv/image/senthur-tv-1.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Senthur TV
@@ -1603,7 +1567,7 @@ https://hlsstream.olidigital.in/sgbtv/sgbtv/index.m3u8
 #EXTINF:-1 tvg-name="Sha TV" tvg-logo="https://play-lh.googleusercontent.com/YFCBVclNFznGAyBf1EdTdpeIvkf-poU1k_YiCRFJky3_1f-UZXiIho2cCobvgsno-wIA" group-title="Tamil Local Channels",Sha TV
 https://play.applelive.in/shatv/shatv.m3u8
 
-#EXTINF:-1 tvg-name="Shakthi Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777567856_SALRHI%20TV%20LOGO%20PNG%20copy.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Shakthi Channel
+#EXTINF:-1 tvg-name="Shakthi Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777567856_SALRHI%20TV%20LOGO%20PNG%20copy.png" group-title="Tamil Local Channels",Shakthi Channel
 http://cloudstream4k.com:1935/shakthihd/bsk/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Shalini TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1737815564_Shalini%2520Tv%2520logo%2520New%252028-04-2012.png&w=1920&q=75" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Shalini TV
@@ -1630,13 +1594,10 @@ https://iptvhls.inet.moe/hls/newchannel.m3u8
 #EXTINF:-1 tvg-id="ShekinahTV" tvg-logo="" tvg-region="Unknown" group-title="Tamil Local Channels",Shekinah TV
 https://iptvhls.inet.moe/hls/newchannel_src/index.m3u8
 
-#EXTINF:-1 tvg-name="Siddhar Isai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785676992_WhatsApp%20Image%202026-08-02%20at%206.52.40%20PM.jpeg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Siddhar Isai
-https://3.proxy.nellaiiptv.com/DINESH/PT/index.m3u8?token=YAAL
-
 #EXTINF:-1 tvg-name="Siddhar TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785677325_WhatsApp%20Image%202026-08-02%20at%206.53.09%20PM.jpeg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Siddhar TV
 http://198.144.149.206:8080/DINESH/PT2/index.m3u8?token=YAAL
 
-#EXTINF:-1 tvg-id="SilverSatMedia" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SilverSatMedia.png" tvg-region="Puducherry" group-title="Tamil Local Channels",Silver Sat Media
+#EXTINF:-1 tvg-name="Silver Sat Media" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SilverSatMedia.png" group-title="Tamil Local Channels",Silver Sat Media
 http://sanplayout.xyz/live2/silversatmedia/index.m3u8
 
 #EXTINF:-1 tvg-name="Singam tv" tvg-logo="https://vmfm.github.io/tamilvmtv/image/singam_tv.png" group-title="Tamil Local Channels",Singam tv
@@ -1657,9 +1618,6 @@ https://view.rcserver.in/tmp_hls18/skmusic/index.m3u8
 #EXTINF:-1 tvg-name="SK TV Karur" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SKTVKarur.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",SK TV Karur
 https://view.rcserver.in/tmp_hls24/sktv/index.m3u8
 
-#EXTINF:-1 tvg-name="Sky Media" tvg-logo="https://play-lh.googleusercontent.com/M8aznVOZ1lyqU9dKy34x_WguhPLLieeLxkfM3yfoi4i1fszevAKRAA89anSqr_eWZ-Gq=w480-h960-rw" group-title="Tamil Local Channels",Sky Media
-https://skymedia.phoenixcreations.online/skymedia/skymedia/index.m3u8
-
 #EXTINF:-1 tvg-name="Sky TV" tvg-logo="https://vmfm.github.io/tamilvmtv/image/sky-tv.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Sky TV
 https://sscloud7.com/live/skytv/index.m3u8
 
@@ -1678,13 +1636,13 @@ http://hdserver.7starcloud.com:1935/smart/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="SMCV TV" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",SMCV TV
 https://singamcloud.in/smcvtv/smcvtv/index.m3u8
 
-#EXTINF:-1 tvg-name="SMS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/sms_tv_1770712766.webp" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",SMS TV
-https://smstv.stream.nellaiiptv.com/live/smstv/index.m3u8
-
-#EXTINF:-1 tvg-name="SNR TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785065848_999f98ed-405b-494a-a531-7ba27b256310-Photoroom.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",SNR TV
+#EXTINF:-1 tvg-name="Snr Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785065848_999f98ed-405b-494a-a531-7ba27b256310-Photoroom.png" group-title="Tamil Local Channels",Snr Tv
 https://3.proxy.nellaiiptv.com/NOTV/ASOSACHENNAI/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-name="Solai Tv" tvg-logo="" group-title="Tamil Local Channels",Solai Tv
+https://ipcloud.live/solaitv/solaihd/index.m3u8
+
+#EXTINF:-1 tvg-name="Solai TV HD" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Solai TV HD
 https://ipcloud.live/solaitv/solaihd/index.m3u8
 
 #EXTINF:-1 tvg-name="Sooriyan TV" tvg-logo="https://yettelevision.com/assets/images/logo/channel_11842.png" group-title="Tamil Local Channels",Sooriyan TV
@@ -1717,7 +1675,7 @@ https://annainew.livebox.co.in/srisaihls/live.m3u8
 #EXTINF:-1 tvg-name="Sri TV" tvg-logo="https://play-lh.googleusercontent.com/WVVmROs0-HduRDHoPjdyF-o4BWIHE5cVK8KC2uHzBeCskktLCZ9npcRLv9__UebaAhXrdY21xURmyrzyGJ4Ayg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Sri TV
 http://sritv.phoenixcreations.online/sritv/sri/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sri Varahi TV" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Sri Varahi TV
+#EXTINF:-1 tvg-name="Sri Varahi Tv" tvg-logo="" group-title="Tamil Local Channels",Sri Varahi Tv
 https://real-vk.proxy.nellaiiptv.com/SRIVARAHITV/index.m3u8
 
 #EXTINF:-1 tvg-id="SriVasanthTV" tvg-logo="https://play-lh.googleusercontent.com/RrIUDazd9z6EZaRewzOa9tjeJELR5qT2eJkukFRvRRIe1Odo4nJEjkguxwHVM1_SAty7=w480-h960-rw" group-title="Tamil Local Channels",Sri Vasanth
@@ -1726,7 +1684,7 @@ https://play.applelive.in/vasanthtv/vasanthtv.m3u8
 #EXTINF:-1 tvg-name="Sri Velavan TV" tvg-logo="https://vmfm.github.io/tamilvmtv/image/srivelavan-tv-1.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Sri Velavan TV
 https://rtmp.applelive.in/srivelavantv/srivelavantv4k/index.m3u8
 
-#EXTINF:-1 tvg-name="Sri Vinayaga TV" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/03/20240330_1010229062871283623357358.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Sri Vinayaga TV
+#EXTINF:-1 tvg-name="Sri Vinayaga Tv" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/03/20240330_1010229062871283623357358.png" group-title="Tamil Local Channels",Sri Vinayaga Tv
 https://1.proxy.nellaiiptv.com/srivinayagatv/hd/index.m3u8
 
 #EXTINF:-1 tvg-name="SS Music" tvg-logo="https://vmfm.github.io/tamilvmtv/image/ss-music.png" group-title="Tamil Local Channels",SS Music
@@ -1735,7 +1693,7 @@ https://stream.advikadigital.in/advika/ssmusic/index.mpd
 #EXTINF:-1 tvg-name="SS TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SSTV2.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",SS TV
 https://notvstream.in/sstv/sstv/index.m3u8
 
-#EXTINF:-1 tvg-name="Ss Tv Nagercoil" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721756371.PNG" group-title="Tamil Local Channels",Ss Tv Nagercoil
+#EXTINF:-1 tvg-name="SS TV Nagercoil" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721756371.PNG" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",SS TV Nagercoil
 https://server.sscloud7.in/live/sshd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Star Media" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1773809677_WhatsApp%20Image%202026-03-18%20at%209.42.26%20AM.jpeg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Star Media
@@ -1775,7 +1733,7 @@ https://stream.onecloudlive.in/superstartv/superstarhd/index.m3u8
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8
 
 #EXTINF:-1 tvg-name="Suriyan TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Suriyan TV
-https://sscloud7.com/live/suriyantv/index.m3u8
+https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
 
 #EXTINF:-1 tvg-name="Surya TV" tvg-logo="https://play-lh.googleusercontent.com/a7mmX52uY4Phulw7zVeRM3Lwp7wqUc4TaFMHywMuEfVQZ7JW0YEL48gS4dN1rhl5kVBGfggIvlKb7ONFuw0h_A=w512-h960-rw" group-title="Tamil Local Channels",Surya TV
 https://galaxyott.live/hls/suryatv.m3u8
@@ -1801,23 +1759,26 @@ https://live.cmr24.fm/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-name="Tamilnesan Tv" tvg-logo="https://vmfm.github.io/tamilvmtv/image/Tamilnesan TV.png" group-title="Tamil Local Channels",Tamilnesan Tv
 https://view.rcserver.in/tmp_hls14/tntv/index.m3u8
 
-#EXTINF:-1 tvg-id="TCBN" tvg-logo="https://tvchannel.in/wp-content/uploads/2025/04/tcbn-300x169.png" tvg-region="Unknown" group-title="Tamil Local Channels",TCBN
+#EXTINF:-1 tvg-name="TCBN" tvg-logo="https://tvchannel.in/wp-content/uploads/2025/04/tcbn-300x169.png" group-title="Tamil Local Channels",TCBN
 https://ktismaservers.in:3382/live/tcbntvlive.m3u8
 
 #EXTINF:-1 tvg-name="TDN" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",TDN
 https://live.maxtn.in/tdn/tdn/index.m3u8
 
-#EXTINF:-1 tvg-name="Telemax Tamil" tvg-logo="https://yt3.googleusercontent.com/JZFLrlPP5c1YGD1xxTkZ35B_uW9P_nUqeBLZPJqtOTlx0FDNnrmIHSzrzzOL6YMCJtniMPm3X_U" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Telemax Tamil
+#EXTINF:-1 tvg-name="Telemax Tamil" tvg-logo="https://yt3.googleusercontent.com/JZFLrlPP5c1YGD1xxTkZ35B_uW9P_nUqeBLZPJqtOTlx0FDNnrmIHSzrzzOL6YMCJtniMPm3X_U" group-title="Tamil Local Channels",Telemax Tamil
 https://real-vk.proxy.nellaiiptv.com/TELEMAX/index.m3u8
 
 #EXTINF:-1 tvg-name="Thalaa Tv" tvg-logo="https://vmfm.github.io/tamilvmtv/image/thalaa-tv.png" group-title="Tamil Local Channels",Thalaa Tv
 https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
 
-#EXTINF:-1 tvg-name="Thangam Tv" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ThangamTV.png" group-title="Tamil Local Channels",Thangam Tv
+#EXTINF:-1 tvg-name="Thangam TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ThangamTV.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Thangam TV
 https://stream.onecloudlive.in/thangamtv/thangamtvhd/index.m3u8
 
 #EXTINF:-1 tvg-name="Tharun Movies" tvg-logo="https://vmfm.github.io/tamilvmtv/image/tharun-movies.jpg" group-title="Tamil Local Channels",Tharun Movies
 https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+
+#EXTINF:-1 tvg-id="ThendralTV" tvg-logo="https://i.ibb.co/d4vx9vmM/1000157779.png" tvg-region="Srivilliputhur;Virudhunagar" group-title="Tamil Local Channels",Thendral TV
+https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8
 
 #EXTINF:-1 tvg-name="Thendral TV" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Thendral TV
 https://sscloud7.com/live/thendraltv/index.m3u8
@@ -1840,16 +1801,16 @@ https://vmusictv.stream.nellaiiptv.com/live/tv/index.m3u8
 #EXTINF:-1 tvg-name="Thendral Tv Theni" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1735633652_IMG-20241231-WA0071.jpg&w=1920&q=75" group-title="Tamil Local Channels",Thendral Tv Theni
 https://sscloud7.com/live/thendraltv/index.m3u8
 
-#EXTINF:-1 tvg-name="Thirai Isai" tvg-logo="https://vmfm.github.io/tamilvmtv/image/Thirai_Isai-tv.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Thirai Isai
-https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
-
 #EXTINF:-1 tvg-name="Thirai Music" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ThiraiTVMusic.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Thirai Music
 https://live.apcloud.in/thiraimusic/thiraimusichd/index.m3u8
 
-#EXTINF:-1 tvg-id="ThiraiTamilTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ThiraiTamil.png" tvg-region="Unknown" group-title="Tamil Local Channels",Thirai Tamil TV
+#EXTINF:-1 tvg-name="Thirai Tamil TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ThiraiTamil.png" group-title="Tamil Local Channels",Thirai Tamil TV
 https://tn.streamezy.in/hls/tthirai/live.m3u8
 
 #EXTINF:-1 tvg-name="Thirai TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1774072924_WhatsApp%20Image%202026-03-21%20at%2010.56.05%20AM-Photoroom.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Thirai TV
+https://live.apcloud.in/thiraitv/thiraitvhd/index.m3u8
+
+#EXTINF:-1 tvg-name="Thirai Tv" tvg-logo="https://vmfm.github.io/tamilvmtv/image/Thirai_TV.png" group-title="Tamil Local Channels",Thirai Tv
 https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
 
 #EXTINF:-1 tvg-name="Thirumalai TV" tvg-logo="https://bmcloud.in/apptest/uploads/6944c6d5e64f1.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Thirumalai TV
@@ -1867,10 +1828,10 @@ https://stream.onecloudlive.in/thoma/thoma/index.m3u8
 #EXTINF:-1 tvg-name="Thuthi TV" tvg-logo="https://play-lh.googleusercontent.com/6dgm4tj8ppUdoK1ra5UTh5YihmtJZ85XtqVnyr34KRJ-6PnlJCEzZt4BkBn3xuBufqc" group-title="Tamil Local Channels",Thuthi TV
 http://indiamatrix.in/thuthitv/thuthitv.m3u8
 
-#EXTINF:-1 tvg-name="Time Tv" tvg-logo="https://play-lh.googleusercontent.com/pGvPUIyZtW1-kPduEn593l_WAzeaLuEgl1oiT3-jXOPEPJ65zeeuCJQFVdsA0_fkb2Ss=w512-h960-rw" group-title="Tamil Local Channels",Time Tv
+#EXTINF:-1 tvg-name="Time TV" tvg-logo="https://play-lh.googleusercontent.com/pGvPUIyZtW1-kPduEn593l_WAzeaLuEgl1oiT3-jXOPEPJ65zeeuCJQFVdsA0_fkb2Ss=w512-h960-rw" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Time TV
 https://live.olidigital.in/timetv/timetv/index.m3u8
 
-#EXTINF:-1 tvg-name="Tiruppur Voice Tv" tvg-logo="https://play-lh.googleusercontent.com/7WwJlJcxOrQDjY2eOb1GNpLYQ_JF6fboUUmIb3b2R9tcdA_ewkTP94uCKXnbOw8mhaMw=w512-h960-rw" group-title="Tamil Local Channels",Tiruppur Voice Tv
+#EXTINF:-1 tvg-name="Tiruppur Voice TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/TiruppurVoiceTV.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Tiruppur Voice TV
 https://notvstream.in/tirupurvoicetv/tirupurvoicetv/index.m3u8
 
 #EXTINF:-1 tvg-name="Tmp Hls20" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Tmp Hls20
@@ -1918,14 +1879,8 @@ https://vmusictv.stream.nellaiiptv.com/live/vmusictv/index.m3u8
 #EXTINF:-1 tvg-name="V Tamil" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/VTamil.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",V Tamil
 https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
 
-#EXTINF:-1 tvg-name="V Tamizh" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1734235815_WhatsApp_Image_2024-12-15_at_8.10.00_AM-removebg-preview.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",V Tamizh
-https://stream.dureshtech.com/vtv/vtv/index.m3u8
-
 #EXTINF:-1 tvg-name="Vaagai TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1783397514_Vaagai%20TV%20logo.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Vaagai TV
 https://stream.ashokadigital.net/VAAGAITV/vaagaitv/index.m3u8
-
-#EXTINF:-1 tvg-name="Vaani Visuals" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1749032751_vaani%20bbb.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Vaani Visuals
-https://vaanivisualsin.proxy.nellaiiptv.com/vaanitv/vaanitv/index.m3u8
 
 #EXTINF:-1 tvg-name="Vajra TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1765194315_203%2520VAJRA%2520NEW%2520LOGO%25202.png&w=1920&q=75" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Vajra TV
 http://mmtv.stream.onecloudlive.in/mmtv/vajratvtac/index.m3u8
@@ -1951,6 +1906,9 @@ https://stream.advikadigital.in/advika/veerbox/index.mpd
 #EXTINF:-1 tvg-name="Velan TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1750343383_aPre-comp%25201_01085.png&w=1920&q=75" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Velan TV
 http://velantv.phoenixcreations.online/velantv/velantv/index.m3u8
 
+#EXTINF:-1 tvg-name="Velan Tv" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1750343383_aPre-comp%25201_01085.png&w=1920&q=75" group-title="Tamil Local Channels",Velan Tv
+https://cloudstream4k.com/velantvhdkanchi/bsk/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Velavan TV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1755348568.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Velavan TV
 http://velavantv.sscloud7.in/live/velavantv/index.m3u8
 
@@ -1963,28 +1921,22 @@ https://account11.livebox.co.in/vidyaltvhls/live.m3u8?psk=stream
 #EXTINF:-1 tvg-name="Vidyal TV" tvg-logo="" group-title="Tamil Local Channels",Vidyal TV
 https://account11.livebox.co.in/vidyaltvhls/live.m3u8?psk=stream
 
-#EXTINF:-1 tvg-name="Vimal TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782983392_ashoka-digital-560x315.gif" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Vimal TV
+#EXTINF:-1 tvg-name="Vimal Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782983392_ashoka-digital-560x315.gif" group-title="Tamil Local Channels",Vimal Tv
 https://stream.onecloudlive.in/karthick/vimaltv/index.m3u8
 
-#EXTINF:-1 tvg-name="Vinayaga Tv" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/VinayagaTV.png" group-title="Tamil Local Channels",Vinayaga Tv
+#EXTINF:-1 tvg-name="Vinayaga TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/VinayagaTV.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Vinayaga TV
 https://server.sscloud7.in/live/vinayagatv/index.m3u8
 
-#EXTINF:-1 tvg-name="Vinayaka Tv" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773424.PNG" group-title="Tamil Local Channels",Vinayaka Tv
+#EXTINF:-1 tvg-name="Vinayaka TV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773424.PNG" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Vinayaka TV
 http://server.mindspell.in/live/vinayagatv/index.m3u8
 
 #EXTINF:-1 tvg-name="Vinmeen Music" tvg-logo="https://tamiltvchannels.com/img/devotional/Vinmeen%20Music.png" group-title="Tamil Local Channels",Vinmeen Music
 https://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 
-#EXTINF:-1 tvg-name="VIP TV Virudhunagar" tvg-logo="" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",VIP TV Virudhunagar
-https://whistletv1.stream.nellaiiptv.com/live/whistletv1/index.m3u8
-
-#EXTINF:-1 tvg-name="Visaka TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748146464_TV%2520(1)%2520(1).png&w=1920&q=75" group-title="Tamil Local Channels",Visaka TV
+#EXTINF:-1 tvg-id="VisakaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1748146464_TV%20(1)%20(1).png" tvg-region="Namakkal" group-title="Tamil Local Channels",Visaka TV
 http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Vishil TV 2" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1744985304.jpeg" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Vishil TV 2
-https://whistletv2.stream.nellaiiptv.com/live/whistletv2/index.m3u8
-
-#EXTINF:-1 tvg-name="Vision TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/VisionTV.png" group-title="Tamil Local Channels",Vision TV
+#EXTINF:-1 tvg-name="Vision TV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/VisionTV.png" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Vision TV
 https://rtmp.bmlive.net/bms/visiontv/index.m3u8
 
 #EXTINF:-1 tvg-name="VTV Trichy" tvg-logo="https://play-lh.googleusercontent.com/QfZqN2OEgxOq65ndB6E8xfypQYbPusJ_IG9YDw5Op-uG89VswRm_TE7EJ3C44KiiBMU" group-title="Tamil Local Channels" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",VTV Trichy
@@ -2005,7 +1957,7 @@ https://sstudiostv.stream.onecloudlive.in/sstudiostv/yettv2/index.m3u8
 #EXTINF:-1 tvg-name="Yet TV" tvg-logo="" group-title="Tamil Local Channels",Yet TV
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 
-#EXTINF:-1 tvg-name="Yours TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748079240_YOURS%2520TV.png&w=1920&q=75" group-title="Tamil Local Channels",Yours TV
+#EXTINF:-1 tvg-id="YoursTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1748079240_YOURS%20TV.png" tvg-region="Bhavani;Erode" group-title="Tamil Local Channels",Yours TV
 http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
 
 # --- Sports ---
@@ -2033,6 +1985,9 @@ https://files.catbox.moe/uizjo7.mp4
 #EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1
 http://202.70.146.135:8000/play/a00a/index.m3u8
 
+#EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" group-title="Sports",Star Sports 1
+https://vt-ip.vodep39240327.workers.dev/290.m3u8
+
 #EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png" group-title="Sports",Star Sports 2
 http://202.70.146.135:8000/play/a026/index.m3u8
 
@@ -2044,6 +1999,9 @@ http://202.70.146.135:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Sports Select 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png" group-title="Sports",Star Sports Select 2
 http://202.70.146.135:8000/play/a03e/index.m3u8
+
+#EXTINF:-1 tvg-name="Star Sports Select 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png" group-title="Sports" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",Star Sports Select 2
+http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 
 # --- English Movies ---
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://vmfm.github.io/tamilvmtv/image/hbo.png" group-title="English Movies" user-agent="Mozilla/5.0 (Linux; Android 10; Fire TV Stick 4K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36" override-origin="https://www.sunnxt.com" override-referer="https://www.sunnxt.com/",HBO
