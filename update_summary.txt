@@ -1,18 +1,21 @@
-Update: 2026-10-05 23:52:01 UTC
+Update: 2026-10-06 05:31:25 UTC
 Total sources: 5
 Successful: 5
 Failed: 0
-Total channels: 741
+Total channels: 756
 
 Category breakdown:
-  Tamil Local Channels: 645
-  Tamil Channels: 71
-  English Movies: 13
-  Sports: 12
+  Tamil Local Channels: 653
+  Tamil Channels: 74
+  English Movies: 14
+  Sports: 14
+  English - Movies: 1
 
 Channel list:
+  [English - Movies] Movies Now HD (1080p) (main)
   [English Movies] HBO (main)
   [English Movies] MNX (main)
+  [English Movies] Movies Now (main)
   [English Movies] Romedy Now (main)
   [English Movies] Sony PIX (main)
   [English Movies] Sony PIX (main)
@@ -35,6 +38,8 @@ Channel list:
   [Sports] Star Sports 1 (main)
   [Sports] Star Sports 2 (main)
   [Sports] Star Sports Select 1 (main)
+  [Sports] Star Sports Select 1 (main)
+  [Sports] Star Sports Select 2 (main)
   [Sports] Star Sports Select 2 (main)
   [Tamil Channels] Adithya TV (main)
   [Tamil Channels] Adithya TV (main)
@@ -96,11 +101,14 @@ Channel list:
   [Tamil Channels] Sun Life (main)
   [Tamil Channels] Sun Music (main)
   [Tamil Channels] Sun TV (main)
+  [Tamil Channels] Sun TV (main)
+  [Tamil Channels] Sun TV HD (1080p) (main)
   [Tamil Channels] Thalaa TV TAM (main)
   [Tamil Channels] Thanthi TV (main)
   [Tamil Channels] Thanthi TV (main)
   [Tamil Channels] Vasanth TV (main)
   [Tamil Channels] Vasanth TV (main)
+  [Tamil Channels] Vasanth Tv (main)
   [Tamil Channels] Vendhar TV (main)
   [Tamil Channels] Vendhar TV (main)
   [Tamil Channels] Zee Tamil (main)
@@ -178,6 +186,7 @@ Channel list:
   [Tamil Local Channels] 611 kalki (main)
   [Tamil Local Channels] 612 swastik (main)
   [Tamil Local Channels] 616 అశోక తెలుగు (main)
+  [Tamil Local Channels] 620 Dhanya Tv (main)
   [Tamil Local Channels] 647 rv digital tv (main)
   [Tamil Local Channels] 648 Blessing Tv (main)
   [Tamil Local Channels] 652 gs channel (main)
@@ -238,7 +247,6 @@ Channel list:
   [Tamil Local Channels] Aadvik TV (main)
   [Tamil Local Channels] Aalaya TV (main)
   [Tamil Local Channels] Aalayam TV (main)
-  [Tamil Local Channels] Aaron Tv (main)
   [Tamil Local Channels] Aaryaa TV (main)
   [Tamil Local Channels] Aaryaa TV (main)
   [Tamil Local Channels] Aasai TV (main)
@@ -294,6 +302,7 @@ Channel list:
   [Tamil Local Channels] Arram TV Komarapalayam (main)
   [Tamil Local Channels] Arun TV (main)
   [Tamil Local Channels] Ashoka TV (main)
+  [Tamil Local Channels] Asoka Tv (main)
   [Tamil Local Channels] Athithoothar TV (main)
   [Tamil Local Channels] ATN (main)
   [Tamil Local Channels] Auro TV (main)
@@ -365,7 +374,6 @@ Channel list:
   [Tamil Local Channels] Eye Tamil Music (main)
   [Tamil Local Channels] Eye TV Madurai (main)
   [Tamil Local Channels] Ezhil TV (main)
-  [Tamil Local Channels] Ezhil Tv (main)
   [Tamil Local Channels] Ezra Bible Network (main)
   [Tamil Local Channels] Faith TV (main)
   [Tamil Local Channels] Family Channel (main)
@@ -408,6 +416,7 @@ Channel list:
   [Tamil Local Channels] Jawahar Channel HD (main)
   [Tamil Local Channels] Jay TV (main)
   [Tamil Local Channels] Jayaam TV (main)
+  [Tamil Local Channels] Jayam Tv (main)
   [Tamil Local Channels] Jayam TV Karur (main)
   [Tamil Local Channels] Jayam TV Namakkal (main)
   [Tamil Local Channels] Jayam TV Sivakasi (main)
@@ -417,6 +426,7 @@ Channel list:
   [Tamil Local Channels] JCV (main)
   [Tamil Local Channels] JCV Musix (main)
   [Tamil Local Channels] Jeeva Oli TV (main)
+  [Tamil Local Channels] Jeeva Tv (main)
   [Tamil Local Channels] Jeevaneerodai TV (main)
   [Tamil Local Channels] Jeiyan Tv (main)
   [Tamil Local Channels] Jenifer TV (main)
@@ -503,6 +513,7 @@ Channel list:
   [Tamil Local Channels] MM TV (main)
   [Tamil Local Channels] MM TV Jeyam Plus (main)
   [Tamil Local Channels] MM TV Valliyur (main)
+  [Tamil Local Channels] MN Music (main)
   [Tamil Local Channels] MN TV (main)
   [Tamil Local Channels] Models (main)
   [Tamil Local Channels] MonTamil (main)
@@ -510,9 +521,11 @@ Channel list:
   [Tamil Local Channels] MR TV (main)
   [Tamil Local Channels] MS Mathan TV (main)
   [Tamil Local Channels] MTN TV (main)
+  [Tamil Local Channels] Mtv Kodaikanal (main)
   [Tamil Local Channels] MTV Men HD (main)
   [Tamil Local Channels] Mtv Virudhunagar (main)
   [Tamil Local Channels] Mullai TV (main)
+  [Tamil Local Channels] Mullai Tv (main)
   [Tamil Local Channels] My Jesus TV (main)
   [Tamil Local Channels] Naga TV (main)
   [Tamil Local Channels] Namathu Sangamam TV (main)
@@ -550,6 +563,7 @@ Channel list:
   [Tamil Local Channels] Peniel Church TV (main)
   [Tamil Local Channels] Peniel TV (main)
   [Tamil Local Channels] PJ TV (main)
+  [Tamil Local Channels] Pn Tv (main)
   [Tamil Local Channels] Polimer Channel (main)
   [Tamil Local Channels] Power Of Prayer TV (main)
   [Tamil Local Channels] PR TV (main)
@@ -575,6 +589,7 @@ Channel list:
   [Tamil Local Channels] Right TV (main)
   [Tamil Local Channels] Rio Tv (main)
   [Tamil Local Channels] Riya TV (main)
+  [Tamil Local Channels] Rj Tamil (main)
   [Tamil Local Channels] RK TV (main)
   [Tamil Local Channels] Rock TV (main)
   [Tamil Local Channels] Rock Tv (main)
@@ -596,7 +611,6 @@ Channel list:
   [Tamil Local Channels] Sachin Music (main)
   [Tamil Local Channels] Sachin TV (main)
   [Tamil Local Channels] Sahara TV (main)
-  [Tamil Local Channels] Sai TV Madurai (main)
   [Tamil Local Channels] Sai TV Madurai (main)
   [Tamil Local Channels] Sai TV Tenkasi (main)
   [Tamil Local Channels] Sailam TV (main)
@@ -624,7 +638,9 @@ Channel list:
   [Tamil Local Channels] Shakthi Channel (main)
   [Tamil Local Channels] Shalini TV (main)
   [Tamil Local Channels] Shalini TV Kanchipuram (main)
+  [Tamil Local Channels] Shalini Tv Tiruvannamalai (main)
   [Tamil Local Channels] Shalwin TV (main)
+  [Tamil Local Channels] Shark Tv (main)
   [Tamil Local Channels] Sharon TV (main)
   [Tamil Local Channels] Sharon TV (main)
   [Tamil Local Channels] Shekinah TV (main)
@@ -633,10 +649,10 @@ Channel list:
   [Tamil Local Channels] Silver Sat Media (main)
   [Tamil Local Channels] Silver Sat Media (main)
   [Tamil Local Channels] Singam tv (main)
+  [Tamil Local Channels] Singam Tv (main)
   [Tamil Local Channels] Sirustigar TV (main)
   [Tamil Local Channels] SJ Surya TV (main)
   [Tamil Local Channels] Sky Media (main)
-  [Tamil Local Channels] Sky Plus Tv (main)
   [Tamil Local Channels] Sky TV (main)
   [Tamil Local Channels] Sky TV Karur (main)
   [Tamil Local Channels] Smart Sri (main)
@@ -679,6 +695,7 @@ Channel list:
   [Tamil Local Channels] Suriya TV (main)
   [Tamil Local Channels] Suriyan TV (main)
   [Tamil Local Channels] Suriyan Tv (main)
+  [Tamil Local Channels] Suriyan Tv Karur (main)
   [Tamil Local Channels] Surya TV (main)
   [Tamil Local Channels] Swastik TV (main)
   [Tamil Local Channels] Tamil Magan TV (main)
@@ -707,7 +724,6 @@ Channel list:
   [Tamil Local Channels] Thirai Tv (main)
   [Tamil Local Channels] Thirumagal TV (main)
   [Tamil Local Channels] Thirumalai TV (main)
-  [Tamil Local Channels] Thirumalai Tv Vadipatti (main)
   [Tamil Local Channels] Thogai TV (main)
   [Tamil Local Channels] Thoma TV (main)
   [Tamil Local Channels] Three Star TV HD (main)
@@ -719,8 +735,8 @@ Channel list:
   [Tamil Local Channels] TTN TV (main)
   [Tamil Local Channels] TWOC TV (main)
   [Tamil Local Channels] Udhayam TV (main)
+  [Tamil Local Channels] Udhayam Tv Madurai (main)
   [Tamil Local Channels] Ultimate TV (main)
-  [Tamil Local Channels] Ultimate TV HD (main)
   [Tamil Local Channels] Urchagam TV (main)
   [Tamil Local Channels] Uthamiyae TV (main)
   [Tamil Local Channels] UTV (main)
